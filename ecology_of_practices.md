@@ -102,26 +102,5 @@ The goal is the practice (of returning when derailed) itself. Nothing else.
 
 Close your eyes. Now imagine seeing yourself from 2m into the air. Now slowly move upwards, and see things from a distance. Look from above the building you are in, above the city, the country, the continent, the Earth, the solar system, the galaxy and then go far away into the space until the Milky Way is no longer visible, not even a speck of light. Then gradually come back.
 
-The goal is to move away from an egocentric view, to take the perspective of the universe.
-
-
-
-## What i am not
-
-Write three things i am not (e.g. i am not my health, i am not my career, i am not my status)
-
-
-
-## What is not within my control
-
-write three things which are not within my control
-
-(maybe surrender them to Nature to do with them what it thinks best, which is what it does anyway, this is just a way of voluntarily accepting this)
-
-
-
-## What is (slightly more) within my control
-
-Write three things which are within my control. Focus on them during the day
-
+The aim is to take a larger perspective.
 
