@@ -7,7 +7,7 @@
 - [x] 1
 - [x] 2 
 
-### Other
+### Others
 
 Helped a grandma cross the road.
 

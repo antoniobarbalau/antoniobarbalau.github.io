@@ -6,7 +6,7 @@
 
 - [ ] 
 
-### Other
+### Others
 
 ### Taking care of yourself
 
