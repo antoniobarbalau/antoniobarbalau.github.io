@@ -11,14 +11,14 @@
 
 
 
-### Taking care of myself
+### Taking Care of Myself
 
 - [ ] Sleeping well
 - [ ] Eating well
 - [ ] Physical activity
 - [ ] Savoring
 
-### Aiding practices
+### Aiding Practices
 
 - [ ] Just sitting
 - [ ] Memento mori
@@ -26,9 +26,9 @@
 
 ## Dialogue
 
-### With others
+### With Others
 
 
 
-### Self-listening and self-talk
+### Self-Listening and Self-Talk
 
