@@ -8,6 +8,7 @@
 ## Ecology of Practices
 
 - [Daily Template](daily_template.md)
+- [Daily Template Sample Completion]
 - [Ecology of Practices](ecology_of_practices.md)
 
 ## Selected Resources

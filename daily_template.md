@@ -1,85 +1,28 @@
-# Daily template
+# Daily Template
 
+## Meaningful actions
 
+### Pomodoros
 
-## Today's pursuits
+- [ ] 
 
-1. 
+### Other
 
+### Taking care of yourself
 
-
-## Points of refuge
-
-1. 
-
-
-
-## What I am not
-
-- 
-
-
-
-## What is not under my control
-
-- 
-
-
-
-## What is (slightly more) within my control
-
-- 
-
-
-
-## Looking at desires
-
-1. __
-	- **Natural, unnecessary, unnatural?** 
-	- 
-	- **Short or long term pleasure?**
-	- 
-	- **Active or passive?**
-	- 
-	- **Short or long term pains?**
-	- 
-2. __
-	- **Natural, unnecessary, unnatural?** 
-	- 
-	- **Short or long term pleasure?**
-	- 
-	- **Active or passive?**
-	- 
-	- **Short or long term pains?**
-	- 
-3. __
-	- **Natural, unnecessary, unnatural?** 
-	- 
-	- **Short or long term pleasure?**
-	- 
-	- **Active or passive?**
-	- 
-	- **Short or long term pains?**
-	- 
-
-
-
-## Non-written practices
-
-- [ ] Metta
-- [ ] Internalizing the sage
-- [ ] Just sitting
-- [ ] View from above
-- [ ] Duty towards community
+- [ ] Sleeping well
+- [ ] Eating well
 - [ ] Physical activity
 - [ ] Savoring
-- [ ] Spending time with loved ones
+
+### Other practices
+
+- [ ] Just sitting
 - [ ] Memento mori
-- [ ] Eating well
-- [ ] Sleeping well
 
 
+## Dialogue
 
-## Journaling
+### With others
 
-
+### Self-listening and self-talk

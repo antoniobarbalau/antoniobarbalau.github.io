@@ -18,3 +18,8 @@ As such, meaning is not to be found in any object, but rather, meaning is to be 
 
 ## Duty
 
+Pursue meaningful actions instead of results.
+
+Desire is a contract with yourself to be miserable until the object of your desire is achieved. Expectation is a contract with yourself to be miserable from now on because your expectations have not been met. Learn to just sit with yourself without desire or expectations.
+
+Memento mori, to guide you towards a life lived fully.

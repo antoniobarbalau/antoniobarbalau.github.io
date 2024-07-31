@@ -70,6 +70,8 @@ From Seneca's letters: "Viața menită de sorți am trait-o" or "I have lived; I
 
 Seneca 49: la culcare "s-ar putea sa nu te mai trezesti", la trezire "s-ar putea sa nu mai dormi niciodata", cand pleci "s-ar putea sa nu ma mai intorc niciodata", cand te intorci "s-ar putea sa nu mai plec niciodata".
 
+cand gatesti, s-ar putea ca asta sa fie ultima data cand gatesc pentru mine. cand te vezi cu cineva: s-ar putea ca asta sa fie ultima data cand il vad
+
 People on the dying bed don't think about their fortune. They think about (i) whether or not they've been assholes their whole life (relationship to self), (ii) whether people loved them (relationship with others) and (iii) what they left behind (relationship to somthing you want to exist even if you don't, e.g. a child, a form of art, a craft etc.).
 
 
@@ -121,28 +123,5 @@ write three things which are not within my control
 ## What is (slightly more) within my control
 
 Write three things which are within my control. Focus on them during the day
-
-
-
-## Listing today's pursuits
-
-To practice phisolosophy as a way of life. That's it. I've decided for now that the best thing I can do with my life is to practice philosophy as a way of life. I only have one goal. The rest, is indifferent to me. I'm not going anywhere, i'm not in need of anything, I just practice pshilosophy, I can never be good at it, I just enjoy practicing it. Every moment in which I practice philosophy is a great moment.
-
-1. My only goal for today is to practice philosophy as a way of life
-
-
-
-## Metta
-
-As in [https://www.youtube.com/watch?v=IXWB60QaAVA&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3&index=5](https://www.youtube.com/watch?v=IXWB60QaAVA&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3&index=5) Just the contemplative part, you can replace the meditative part at the beginning with a few moment of mindful breathing.
-
-
-
-## Taking refuge
-
-1. I take refuge in the nature which surrounds and comprises me
-2. I take refuge in dialogue as a way of continuously investigating and transcending my perspective
-3. I take refuge in the scientific pursuit of getting to understand nature and ourselves
-4. I take refuge in philosophy as a way of life and its practitioners
 
 
