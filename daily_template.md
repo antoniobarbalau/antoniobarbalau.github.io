@@ -1,12 +1,17 @@
 # Daily Template
 
+
 ## Meaningful actions
+
+
 
 ### Pomodoros
 
 - [ ] 
 
 ### Others
+
+
 
 ### Taking care of myself
 
@@ -25,4 +30,7 @@
 
 ### With others
 
+
+
 ### Self-listening and self-talk
+
