@@ -11,14 +11,14 @@
 
 Helped a grandma cross the road.
 
-### Taking care of yourself
+### Taking care of myself
 
 - [x] Sleeping well
 - [x] Eating well
 - [x] Physical activity
 - [x] Savoring
 
-### Other practices
+### Aiding practices
 
 - [x] Just sitting
 - [x] Memento mori

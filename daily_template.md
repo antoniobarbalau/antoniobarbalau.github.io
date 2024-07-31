@@ -8,14 +8,14 @@
 
 ### Others
 
-### Taking care of yourself
+### Taking care of myself
 
 - [ ] Sleeping well
 - [ ] Eating well
 - [ ] Physical activity
 - [ ] Savoring
 
-### Other practices
+### Aiding practices
 
 - [ ] Just sitting
 - [ ] Memento mori
