@@ -3,8 +3,6 @@
 
 ## Meaningful actions
 
-
-
 ### Pomodoros
 
 - [ ] 
