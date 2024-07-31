@@ -1,7 +1,7 @@
 # Daily Template
 
 
-## Meaningful actions
+## Meaningful Actions
 
 ### Pomodoros
 

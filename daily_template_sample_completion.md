@@ -1,6 +1,6 @@
 # 2024-07-31
 
-## Meaningful actions
+## Meaningful Actions
 
 ### Pomodoros
 
@@ -11,14 +11,14 @@
 
 Helped a grandma cross the road.
 
-### Taking care of myself
+### Taking Care of Myself
 
 - [x] Sleeping well
 - [x] Eating well
 - [x] Physical activity
 - [x] Savoring
 
-### Aiding practices
+### Aiding Practices
 
 - [x] Just sitting
 - [x] Memento mori
@@ -26,11 +26,11 @@ Helped a grandma cross the road.
 
 ## Dialogue
 
-### With others
+### With Others
 
 Read Lysis and tried to understand Socrates' perspective and the way he acted as a friend throughout the narative, because in the end, they called themselves friends, and they acted as such throughout the narative, even through they did not arrive at a propositional understanding of the concept.
 
-### Self-listening and self-talk
+### Self-Listening and Self-Talk
 
 A part of me feels overwhelmed by the amount of tasks at hand.
 
