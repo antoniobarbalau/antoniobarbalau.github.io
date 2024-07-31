@@ -2,26 +2,18 @@
 
 
 
-## If you only read one book
-
-1. Viktor Frankl - Yes to life, in spite of everything
-
-
-
 ## Meaning
 
-1. Viktor Frankl - Man's search for meaning
+1. Viktor Frankl - Yes to life, in spite of everything
+2. Viktor Frankl - Man's search for meaning
 
 
 
-## Stoicism
+## Internal family systems
 
-1. Pierre Hadot - The inner citadel
-2. Pierre Hadot - What is ancient philosophy?
-3. Diogenes the Cynic - Sayings and anecdotes - Oxford Classics
-4. Epictetus - Complete works - Discourses, Writings, Enchiridion
-5. Marcus Aurelius - Meditations
-6. Seneca - Leters (from a stoic, to Lucilius)
+1. Ann Weiser Cornell - The Power of Focusing: A Practical Guide to Emotional Self-Healing
+2. Jay Earley - Self-Therapy: A Step-By-Step Guide to Creating Wholeness and Healing Your Inner Child Using IFS, A New, Cutting-Edge Psychotherapy, 3rd Edition
+3. Richard Schwartz - No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model
 
 
 
