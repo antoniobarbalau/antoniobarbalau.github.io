@@ -86,9 +86,7 @@ Read to be transformed, not informed. Read one small text each day (e.g. a lette
 
 Sit and breathe with no desire or expectations.
 
-(i) Sit, ideally, facing a wall, (ii) with eyes open looking a short distance ahead, (iii) in a position in which you won't fall asleep while (iv) belly breathing.
-
-Ideally for at least 20 mins.
+(i) Sit, ideally, facing a wall, (ii) with eyes open looking a short distance ahead (but don't force it), (iii) in a position in which you won't fall asleep while (iv) belly breathing. Ideally for at least 20 mins.
 
 Whenever a thought captures your attention, neither push it away, nor entertain it. The desire to have no desire is still a desire. The expectation to have no throughts is still an expectation. When derailed, simply return to just sitting with your bones and muscles, letting the tought continue in the background and do its thing. A good analogy is the sky which lets the clouds pass without interfering, without identifying with any of them, without attaching to any of them or pushing them away.
 
