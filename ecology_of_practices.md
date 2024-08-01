@@ -95,12 +95,3 @@ Whenever a thought captures your attention, neither push it away, nor entertain 
 It may be very difficult to realize when you've drifted in thought. So, at first, you may meditate. When inhaling say in your mind "breathing in", when exhaling say "breathing out". Do not alter your breath, just follow and label it. Use any sentence you see fit. The words don't matter, what matters is using this as a mechanism to help you more easily realized when you get cought in a train of throught. When you notice you've not been labeling your breath, that's when you know you've drifted. Let the thoughts be, and simply and getly return to labeling your breath.
 
 The goal is the practice (of returning when derailed) itself. Nothing else.
-
-
-
-## View from above
-
-Close your eyes. Now imagine seeing yourself from 2m into the air. Now slowly move upwards, and see things from a distance. Look from above the building you are in, above the city, the country, the continent, the Earth, the solar system, the galaxy and then go far away into the space until the Milky Way is no longer visible, not even a speck of light. Then gradually come back.
-
-The aim is to take a larger perspective.
-
