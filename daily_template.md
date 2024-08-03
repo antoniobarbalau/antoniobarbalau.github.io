@@ -3,13 +3,9 @@
 
 ## Meaningful Actions
 
-### Pomodoros
+### High-Level Overview
 
-- [ ] 
-
-### Others
-
-
+- 
 
 ### Taking Care of Myself
 
