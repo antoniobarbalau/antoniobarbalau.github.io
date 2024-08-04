@@ -7,6 +7,8 @@
 - presented my project during the meeting
 - got involved in the discussion afterwards
 - helped a grandma cross the road
+- cooked for us
+- spent time with loved ones
 
 ### Taking Care of Myself
 
@@ -25,7 +27,7 @@
 
 ### Internalizing a Greater Perspective
 
-Read Lysis and tried to understand Socrates' perspective and the way he acted as a friend throughout the narative.
+Read Meno and got blown away by Socrates' moderation and wisdom right from the very first pages. Someone who knows he doesn't know and is willing to learn from other people, happy to discover that other people might have a clue and happy to engage with them in exploration and to learn from them, has nothing to fear, for he has no status to defend, he just has opportunities to explore and understand. I'm trying to mold myself to this attitude, to really feel this perspective and to experience what it would be like to think and act that way.
 
 ### With Others
 
