@@ -22,6 +22,10 @@
 
 ## Dialogue
 
+### Internalizing a Greater Perspective
+
+
+
 ### With Others
 
 

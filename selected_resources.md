@@ -33,6 +33,7 @@
 
 ## Videos
 
+[https://www.youtube.com/playlist?list=PLJHFnvUBDAuF3Zt7plE1xxPl-4Glncjor](https://www.youtube.com/playlist?list=PLJHFnvUBDAuF3Zt7plE1xxPl-4Glncjor)
 [https://www.youtube.com/playlist?list=PLJHFnvUBDAuGfGaB3NO7LJQ8edS_Lw-bh](https://www.youtube.com/playlist?list=PLJHFnvUBDAuGfGaB3NO7LJQ8edS_Lw-bh)
 
 

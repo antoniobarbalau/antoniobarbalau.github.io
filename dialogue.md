@@ -52,8 +52,10 @@ Though you can never attain perfection in any of such encompassing goals, you ca
 
 ## Dialogue
 
-Read. And discuss. With select people. Discuss and read to be transformed, not informed. Read slowly, from the author's perspective, read it as he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. Learn to use a different perspective to investigate your own. In time, you may be able to internalize the external perspective of your dialogue partners and use those to better talk to yourself. Maybe read Plato, but not to be informed, but to learn to dialogue.
+I've delineated for now three practice points.
 
-Discuss with yourself as well, maybe in written form as it helps see things from a third person perspective. Get to know yourself, investigate yourself, spend time with yourself.
+1. **Internalizing a greater perspective.** Reading or discussing to be transformed, not informed. Read slowly, from the author's perspective, read it as he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. Learn to use a different perspective to investigate your own. In time, you may be able to internalize the external perspective of your dialogue partners and use those to better talk to yourself. Maybe read Plato, but not to be informed, but to learn to dialogue.
 
-I rely upon dialogue as a way of continuously investigating and transcending my perspective.
+2. **Engaging in investigative dialogue with others.** Talk with others such that they, from their external perspective, can help you investigate and transcend your perspective.
+
+3. **Writing down your thoughts.** Writing puts you in a third person perspective. You can look at your thoughts rather than through your thoughts. Write down everything you think and feel, try to investigate the throughts and feelings without judgement, see their purpose and intent, understand where they come from and what they're aiming at. See how your thoughts, actions and emotions interact with themselves and with the world. Note it down. And if possible, bring it up for discussion with other people.
