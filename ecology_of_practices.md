@@ -66,19 +66,13 @@ Write whatever you would say to your therapist. Say it to the journal, say it to
 
 ## Memento Mori
 
-From Seneca's letters: "Viața menită de sorți am trait-o" or "I have lived; I have completed the course that fortune long ago alloted me". Enjoy waking up, seeing people, taking care of them interacting with them, enjoy the breeze and the sun. Realize that mortality is not an event in the future, that you are mortal in each and every second and each on could be and could have been your last. Realize that you die with each day passing, that each day which has passed is a dead one you're not getting back, that each moment which passes is a dead one you're not getting back.
-
-Seneca 49: la culcare "s-ar putea sa nu te mai trezesti", la trezire "s-ar putea sa nu mai dormi niciodata", cand pleci "s-ar putea sa nu ma mai intorc niciodata", cand te intorci "s-ar putea sa nu mai plec niciodata".
-
-cand gatesti, s-ar putea ca asta sa fie ultima data cand gatesc pentru mine. cand te vezi cu cineva: s-ar putea ca asta sa fie ultima data cand il vad
-
-People on the dying bed don't think about their fortune. They think about (i) whether or not they've been assholes their whole life (relationship to self), (ii) whether people loved them (relationship with others) and (iii) what they left behind (relationship to somthing you want to exist even if you don't, e.g. a child, a form of art, a craft etc.).
+When you go to sleep remember that "I may never wake up again". When you wake up think "I may never get to sleep again". When you leave think "I may never return". Then you come back consider that "I may never leave again". When you cook remember that "This might be the last time I'm cooking for myself". When you eat remember that "This may be my last meal". When you hug someone remember that "This may be the last time I'm hugging him". When listening to music remind youself that "This may be the last time I'm enyoing music". At evening "I have complete now the course; That fortune long ago alloted me" ("Viata menita de sorti am trait-o"). Don't force anything, just keep reminding yourself. Life is not about its length but about its intensity and meaning. "Some people live as if they would never die and then die as if they have never lived."
 
 
 
-## Internalizing the sage
+## Internalizing a Greater Perspective
 
-Read to be transformed, not informed. Read one small text each day (e.g. a letter, a couple pages, etc). Read it slowly, from the author's perspective, read it as you would say it. Maybe read it out loud. Find a piece a sentece or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who tought that, imagine what it is like to think like that.
+Reading or discussing to be transformed, not informed. Read slowly, from the author's perspective, read it as he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. Learn to use a different perspective to investigate your own. In time, you may be able to internalize the external perspective of your dialogue partners and use those to better talk to yourself. Maybe read Plato, but not to be informed, but to learn to dialogue.
 
 
 
