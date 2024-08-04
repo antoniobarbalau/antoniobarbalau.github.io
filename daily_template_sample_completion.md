@@ -27,7 +27,7 @@
 
 ### Internalizing a Greater Perspective
 
-Read Meno and got blown away by Socrates' moderation and wisdom right from the very first pages. Someone who knows he doesn't know and is willing to learn from other people, happy to discover that other people might have a clue and happy to engage with them in exploration and to learn from them, has nothing to fear, for he has no status to defend, he just has opportunities to explore and understand. I'm trying to mold myself to this attitude, to really feel this perspective and to experience what it would be like to think and act that way.
+Read Meno and got blown away by Socrates' moderation and wisdom right from the very first pages. Someone who knows he doesn't know and is willing to learn from other people, happy to discover that other people might have a clue and happy to engage with them in exploration and to learn from them, has nothing to fear, for he has no status to defend, he just has opportunities to explore and understand. I'm trying to mold myself to this attitude, to really feel this perspective and to experience what it would be like to think and act that way. He cares more about being an explorer and enjoying the exploration than about having a certain status.
 
 ### With Others
 
