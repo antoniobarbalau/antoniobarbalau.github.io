@@ -12,8 +12,6 @@
 ## Internal Family Systems
 
 1. Ann Weiser Cornell - The Power of Focusing: A Practical Guide to Emotional Self-Healing
-2. Jay Earley - Self-Therapy: A Step-By-Step Guide to Creating Wholeness and Healing Your Inner Child Using IFS, A New, Cutting-Edge Psychotherapy, 3rd Edition
-3. Richard Schwartz - No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model
 
 
 

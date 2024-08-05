@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: "Kernel"
-description: "Antonio Barbalau"
+description: "Aggressively Summarizing Core Principles"
 show_downloads: true
 
 github:
