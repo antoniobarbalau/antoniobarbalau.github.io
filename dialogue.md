@@ -59,3 +59,7 @@ I've delineated for now three practice points.
 2. **Engaging in investigative dialogue with others.** Talk with others such that they, from their external perspective, can help you investigate and transcend your perspective.
 
 3. **Writing down your thoughts.** Writing puts you in a third person perspective. You can look at your thoughts rather than through your thoughts. Write down everything you think and feel, try to investigate the throughts and feelings without judgement, see their purpose and intent, understand where they come from and what they're aiming at. See how your thoughts, actions and emotions interact with themselves and with the world. Note it down. And if possible, bring it up for discussion with other people.
+
+___
+
+"What different perspective can I engage with?"
