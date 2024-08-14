@@ -65,15 +65,12 @@ The goal is the practice (of returning when derailed) itself. Nothing else. Redi
 When you wake up think "I may never get to sleep again". When you leave think "I may never return". Then you come back consider that "I may never leave again". When you cook remember that "This might be the last time I'm cooking for myself". When you eat remember that "This may be my last meal". When you hug someone remember that "This may be the last time I'm hugging him". When listening to music remind youself that "This may be the last time I'm enyoing music". At evening "I have complete now the course; That fortune long ago alloted me" ("Viata menita de sorti am trait-o"). Don't force anything, just keep reminding yourself. Life is not about its length but about its intensity and meaning. "Some people live as if they would never die and then die as if they have never lived."
 
 
-## Journaling
-
-Write whatever you would say to your therapist. Say it to the journal, say it to yourself. Just talk about anything, say what you want to say.
-
-
-
-## Internalizing a Greater Perspective
+## 4. Internalizing a Greater Perspective
 
 Reading or discussing to be transformed, not informed. Read slowly, from the author's perspective, read it as he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. Learn to use a different perspective to investigate your own. In time, you may be able to internalize the external perspective of your dialogue partners and use those to better talk to yourself. Maybe read Plato, but not to be informed, but to learn to dialogue.
 
 
+## Journaling
+
+Write whatever you would say to your therapist. Say it to the journal, say it to yourself. Just talk about anything, say what you want to say.
 
