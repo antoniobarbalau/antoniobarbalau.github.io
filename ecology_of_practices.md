@@ -44,7 +44,7 @@ Taking 20 min savoring vacantions as described in chapter 8 of "Savoring: A New 
 
 ### 1.8 Engaging in taking care of society through your job but not only
 
-### 1.9 Engaging in taking care of something which transcends you. Something you want to exist even if you won't.i
+### 1.9 Engaging in taking care of something which transcends you. Something you want to exist even if you won't.
 
 
 ## 2. Just Sitting
@@ -70,7 +70,6 @@ When you wake up think "I may never get to sleep again". When you leave think "I
 Reading or discussing to be transformed, not informed. Read slowly, from the author's perspective, read it as he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. Learn to use a different perspective to investigate your own. In time, you may be able to internalize the external perspective of your dialogue partners and use those to better talk to yourself. Maybe read Plato, but not to be informed, but to learn to dialogue.
 
 
-## Journaling
+## 6. Looking at your thoughts,feelings, emotions and physical sensations rather than through them
 
-Write whatever you would say to your therapist. Say it to the journal, say it to yourself. Just talk about anything, say what you want to say.
-
+For instance by writing. Writing puts you in a third person perspective. You can look at your thoughts rather than through your thoughts. Write down everything you think and feel from a third person perspective. E.g. "a part of me feels...","a part of me thinks...", "there is a pain in my left foot, it feels...". Try to investigate the thoughts and emotions without judgement, see their purpose and intent, understand where they come from and what they're aiming at. Describe them to the best of your abilities. By getting into the position of describing thoughts, emotions and sensations, you're looking at them instead of through them. See how your thoughts, actions and emotions interact with each other and with the world. Note it down. And if possible, bring it up for discussion with other people. Let internal discussions commence, listen to all the sides. Embrace and approach all your thoughts, feelings, emotions and physical sensations with loving kindness. 
