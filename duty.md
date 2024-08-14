@@ -11,6 +11,7 @@ As such, meaning is not to be found in any object, but rather, meaning is to be 
 
 ## Causal interconnectedness
 
+Consider buying a book. A PhD thesis, the result of 5 years of study and experience, has around 300 citations, each with at least 3 authors. That's at least 900 direct contributors. A great book is the result of a lifetime of study and experience. If you trace the ideas back you will quickly get to hundreds of thousands of contributors. But prior work with regards to the ideas presented is not the only contribution society needs to provide in order for that book to exists in its current form. Language has to have been developed in a cross-generation effort involving millions of individuals. The culture which gives the book its context and within which the book is embedded has to have been developed through the interaction of hundreds of millions of people through the ages. The fact that the book is available to you and others in your native language, or that you're able to read it in a foreign language, is again the result of millions of people collaborating, bridging the cultures and languages. In order for the book to physically exist, 
 
 ## Biological interconnectedness
 
