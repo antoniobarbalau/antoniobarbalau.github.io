@@ -1,5 +1,6 @@
 # Ecology of Practices
 
+
 ## 1. Caring actions made out of love
 
 ### 1.1 Sleeping well
@@ -24,10 +25,11 @@ Taking 20 min savoring vacantions as described in chapter 8 of "Savoring: A New 
 
 ### 1.6 Fun hobby
 
-**Fun:** playful connected flow. (From Catherine Price - The Power of Fun. No need to read the book, I've just summariezed it.)
+**Fun:** Playful Connected Flow. (From Catherine Price - The Power of Fun. No need to read the book, I've just summariezed it.)
 
-**Playfulness:** Engaging for the sake of the activity not for the sake of an outcome.
-Connected: It has to inspire a sense of connectedness (e.g. with someone, with your pet, with Nature etc.).
+**Playful:** Engaging for the sake of the activity not for the sake of an outcome.
+
+**Connected:** It has to inspire a sense of connectedness (e.g. with someone, with your pet, with Nature etc.).
 
 **Flow:**
 - The environment:
@@ -38,33 +40,14 @@ Connected: It has to inspire a sense of connectedness (e.g. with someone, with y
 	1. Have to give it your all, get completely engaged in the process.
 	2. Give up desire and expectation for the duration of the process, as these will break your concetration. Desire is a contract with yourself to be miserable until the object of your desire has been achieved. Expectation is a contract with yourself to be miserable from now on because your expectations have not been met. They will both keep you busy with things unrelated to making the next step in your activity.
 
+### 1.7 Engaging in taking care of others as need be
+
+### 1.8 Engaging in taking care of society through your job but not only
+
+### 1.9 Engaging in taking care of something which transcends you. Something you want to exist even if you won't.i
 
 
-## Duty towards community
-
-Engaging in a job which serves society. Other forms of aiding society are more than welcome.
-
-
-
-## Journaling
-
-Write whatever you would say to your therapist. Say it to the journal, say it to yourself. Just talk about anything, say what you want to say.
-
-
-
-## Memento Mori
-
-When you go to sleep remember that "I may never wake up again". When you wake up think "I may never get to sleep again". When you leave think "I may never return". Then you come back consider that "I may never leave again". When you cook remember that "This might be the last time I'm cooking for myself". When you eat remember that "This may be my last meal". When you hug someone remember that "This may be the last time I'm hugging him". When listening to music remind youself that "This may be the last time I'm enyoing music". At evening "I have complete now the course; That fortune long ago alloted me" ("Viata menita de sorti am trait-o"). Don't force anything, just keep reminding yourself. Life is not about its length but about its intensity and meaning. "Some people live as if they would never die and then die as if they have never lived."
-
-
-
-## Internalizing a Greater Perspective
-
-Reading or discussing to be transformed, not informed. Read slowly, from the author's perspective, read it as he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. Learn to use a different perspective to investigate your own. In time, you may be able to internalize the external perspective of your dialogue partners and use those to better talk to yourself. Maybe read Plato, but not to be informed, but to learn to dialogue.
-
-
-
-## Just Sitting
+## 2. Just Sitting
 
 Sit and breathe with no desire or expectations.
 
@@ -74,4 +57,23 @@ Whenever a thought captures your attention, neither push it away, nor entertain 
 
 It may be very difficult to realize when you've drifted in thought. So, at first, you may meditate. When inhaling say in your mind "breathing in", when exhaling say "breathing out". Do not alter your breath, just follow and label it. Use any sentence you see fit. The words don't matter, what matters is using this as a mechanism to help you more easily realized when you get cought in a train of throught. When you notice you've not been labeling your breath, that's when you know you've drifted. Let the thoughts be, and simply and getly return to labeling your breath.
 
-The goal is the practice (of returning when derailed) itself. Nothing else.
+The goal is the practice (of returning when derailed) itself. Nothing else. Rediscover the pleasure of simply being.
+
+
+## 3. Memento Mori
+
+When you wake up think "I may never get to sleep again". When you leave think "I may never return". Then you come back consider that "I may never leave again". When you cook remember that "This might be the last time I'm cooking for myself". When you eat remember that "This may be my last meal". When you hug someone remember that "This may be the last time I'm hugging him". When listening to music remind youself that "This may be the last time I'm enyoing music". At evening "I have complete now the course; That fortune long ago alloted me" ("Viata menita de sorti am trait-o"). Don't force anything, just keep reminding yourself. Life is not about its length but about its intensity and meaning. "Some people live as if they would never die and then die as if they have never lived."
+
+
+## Journaling
+
+Write whatever you would say to your therapist. Say it to the journal, say it to yourself. Just talk about anything, say what you want to say.
+
+
+
+## Internalizing a Greater Perspective
+
+Reading or discussing to be transformed, not informed. Read slowly, from the author's perspective, read it as he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. Learn to use a different perspective to investigate your own. In time, you may be able to internalize the external perspective of your dialogue partners and use those to better talk to yourself. Maybe read Plato, but not to be informed, but to learn to dialogue.
+
+
+
