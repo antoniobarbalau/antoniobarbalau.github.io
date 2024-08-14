@@ -67,7 +67,12 @@ When you wake up think "I may never get to sleep again". When you leave think "I
 
 ## 4. Internalizing a Greater Perspective
 
-Reading or discussing to be transformed, not informed. Read slowly, from the author's perspective, read it as he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. Learn to use a different perspective to investigate your own. In time, you may be able to internalize the external perspective of your dialogue partners and use those to better talk to yourself. Maybe read Plato, but not to be informed, but to learn to dialogue.
+Reading, discussing or witnessing to be transformed, not informed. Find a perspective which transcends or completes your current one in significant ways. Read slowly, from the author's perspective, read it the way he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. As often as possible in your daily encounters, reach to these more encompassing perspectives to aid you in your affairs. When stuck, ask yourself: "From which different perspective could I approach this?"
+
+
+## 5. Engaging in dialogue with peers
+
+Talk with others such that they, from their external standpoint, can help you investigate and transcend your current perspective. 
 
 
 ## 6. Looking at your thoughts,feelings, emotions and physical sensations rather than through them
