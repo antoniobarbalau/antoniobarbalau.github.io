@@ -3,6 +3,8 @@
 
 ## 1. Caring actions made out of love
 
+Savor and enjoy the meaning and warmth provided by engaging in caring actions made out of love.
+
 ### 1.1 Sleeping well
 
 Taking care to sleep well according to the best science of the day. Look for now at Matthew Walker. E.g. [https://www.youtube.com/watch?v=-OBCwiPPfEU](https://www.youtube.com/watch?v=-OBCwiPPfEU) (first in a series of 6 podcasts).
