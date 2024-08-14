@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: "Kernel"
-description: "Aggressively Summarizing Core Principles"
+description: "Summarizing Core Principles"
 show_downloads: true
 
 github:
