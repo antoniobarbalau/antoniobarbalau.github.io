@@ -1,40 +1,28 @@
 # Ecology of Practices
 
+## 1. Caring actions made out of love
 
+### 1.1 Sleeping well
 
-## Sleeping well
+Taking care to sleep well according to the best science of the day. Look for now at Matthew Walker. E.g. [https://www.youtube.com/watch?v=-OBCwiPPfEU](https://www.youtube.com/watch?v=-OBCwiPPfEU) (first in a series of 6 podcasts).
 
-According to the best science of the day. Look for now at Matthew Walker. E.g. [https://www.youtube.com/watch?v=-OBCwiPPfEU](https://www.youtube.com/watch?v=-OBCwiPPfEU) (first in a series of 6 podcasts).
+### 1.2 Eating well
 
+Taking care to eat well according to the best science of the day. Also, notice how (certain) foods, or lack thereof, make you feel. With regards to water see [https://www.youtube.com/watch?v=lwOPaNMTGh8](https://www.youtube.com/watch?v=lwOPaNMTGh8). For now, try to eat whole foods and try to keep track of your macronutrients to the best degree possible.
 
+### 1.3 Physical activity
 
-## Eating well
+Taking care to engage in physical exercises.
 
-According to the best science of the day. Also, notice how (certain) foods, or lack thereof, make you feel. With regards to water see [https://www.youtube.com/watch?v=lwOPaNMTGh8](https://www.youtube.com/watch?v=lwOPaNMTGh8). For now, try to eat whole foods and try to keep track of your macronutrients to the best degree possible.
+### 1.4 Meeting with friends
 
+Not family or special other, friends. Talk to them as you would talk to your therapist. Engage in fun stuff as well if possible.
 
+### 1.5 Savoring
 
-## Physical activity
+Taking 20 min savoring vacantions as described in chapter 8 of "Savoring: A New Model of Positive Experience" by Fred B Bryant and Joseph Veroff. It is enough to only check out chapters 1 and 8.
 
-Engage in physical exercises.
-
-
-
-## Meeting with friends
-
-Not family or special other, friends. Talk to them what you would talk to your therapist. Engage in fun stuff as well if possible.
-
-
-
-## Savoring
-
-20 min savoring vacantion as described in chapter 8 of "Savoring: A New Model of Positive Experience" by Fred B Bryant and Joseph Veroff. It is enough to only check out chapters 1 and 8.
-
-For me a huge part of this is listening to (sometimes) music as a dedicated practice (and enjoying every note).
-
-
-
-## Fun hobby
+### 1.6 Fun hobby
 
 **Fun:** playful connected flow. (From Catherine Price - The Power of Fun. No need to read the book, I've just summariezed it.)
 
