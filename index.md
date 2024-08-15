@@ -2,8 +2,8 @@
 
 ## Summaries
 
-- [Duty](duty.md)
 - [Dialogue](dialogue.md)
+- [Duty](duty.md)
 
 ## Ecology of Practices
 
