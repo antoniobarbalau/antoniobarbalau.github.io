@@ -64,7 +64,7 @@ The goal is the practice (of returning when derailed) itself. Nothing else. Redi
 
 ## 3. Memento Mori
 
-When you wake up think "I may never get to sleep again". When you leave think "I may never return". Then you come back consider that "I may never leave again". When you cook remember that "This might be the last time I'm cooking for myself". When you eat remember that "This may be my last meal". When you hug someone remember that "This may be the last time I'm hugging him". When listening to music remind youself that "This may be the last time I'm enyoing music". At evening "I have complete now the course; That fortune long ago alloted me" ("Viata menita de sorti am trait-o"). Don't force anything, just keep reminding yourself. Life is not about its length but about its intensity and meaning. "Some people live as if they would never die and then die as if they have never lived."
+When you wake up think "I may never get to sleep again". When you leave think "I may never return". Then you come back consider that "I may never leave again". When you cook remember that "This might be the last time I'm cooking for myself". When you eat remember that "This may be my last meal". When you hug someone remember that "This may be the last time I'm hugging him". When listening to music remind youself that "This may be the last time I'm enyoing music". At evening "I have complete now the course; That fortune long ago alloted me" ("Viata menita de sorti am trait-o"),"Now I rest.". Don't force anything, just keep reminding yourself. Life is not about its length but about its intensity and meaning. "Some people live as if they would never die and then die as if they have never lived."
 
 
 ## 4. Internalizing a Greater Perspective
