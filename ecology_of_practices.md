@@ -51,7 +51,7 @@ Taking 20 min savoring vacantions as described in chapter 8 of "Savoring: A New 
 
 ## 2. Just Sitting
 
-Sit and breathe with no desire or expectations.
+Sit and breathe with no desire or expectations. Rediscover the pleasure of simply being.
 
 (i) Sit, ideally, facing a wall, (ii) with eyes open looking a short distance ahead (but don't force it), (iii) in a position in which you won't fall asleep while (iv) belly breathing. Ideally for at least 20 mins.
 
@@ -59,7 +59,7 @@ Whenever a thought captures your attention, neither push it away, nor entertain 
 
 It may be very difficult to realize when you've drifted in thought. So, at first, you may meditate. When inhaling say in your mind "breathing in", when exhaling say "breathing out". Do not alter your breath, just follow and label it. Use any sentence you see fit. The words don't matter, what matters is using this as a mechanism to help you more easily realized when you get cought in a train of throught. When you notice you've not been labeling your breath, that's when you know you've drifted. Let the thoughts be, and simply and getly return to labeling your breath.
 
-The goal is the practice (of returning when derailed) itself. Nothing else. Rediscover the pleasure of simply being.
+The goal is the practice (of returning when derailed) itself. Nothing else.
 
 
 ## 3. Memento Mori
