@@ -27,7 +27,7 @@ Taking 20 min savoring vacantions as described in chapter 8 of "Savoring: A New 
 
 ### 1.6 Fun hobby
 
-**Fun:** Playful Connected Flow. (From Catherine Price - The Power of Fun. No need to read the book, I've just summariezed it.)
+**Fun:** Playful Connected Flow.
 
 **Playful:** Engaging for the sake of the activity not for the sake of an outcome.
 
