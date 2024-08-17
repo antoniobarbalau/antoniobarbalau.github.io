@@ -15,4 +15,5 @@
 ## Selected Resources
 
 - [Selected Resources](selected_resources.md)
+- [Additional Resources](additional_resources.md)
 
