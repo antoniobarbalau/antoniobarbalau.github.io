@@ -59,6 +59,7 @@ I've delineated for now three practice points.
 3. **Engaging in investigative dialogue with others** in order to tie both those ends together, such that they, from their external standpoint, can help you investigate and transcend your current perspective.
 
 These practices are further detailed in [Ecology of Practices](./ecology_of_practices.md).
+
 ___
 
 "What different perspective can I engage with?"
