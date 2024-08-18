@@ -74,7 +74,7 @@ Reading, discussing or witnessing to be transformed, not informed. Find a perspe
 
 ## 5. Engaging in dialogue with peers, investigating and transcending your perspective
 
-Talk with others such that they, from their external standpoint, can help you investigate and transcend your current perspective. If, for the day you don't have such a partner, find an idea you feel certain about, and then find a way in which it's inadequate, take a different perspective which combats it, try to live that other perspective and understand it, and try to understand the flows of your current one. Then adopt a new perspective on the issue, then combat it again. Then a new perspective, then combat it again.
+Talk with others such that they, from their external standpoint, can help you investigate and transcend your current perspective. If, for the day you don't have such a partner, find an idea you feel certain about, and then find a way in which it's inadequate, take a different perspective which combats it, try to live that other perspective and understand it, and try to understand the flaws of your current one. Then adopt a new perspective on the issue, and combat the new one. Then another new perspective, and combat it again.
 
 
 ## 6. Looking at your thoughts, feelings, emotions and physical sensations rather than through them
