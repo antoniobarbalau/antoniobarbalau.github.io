@@ -54,12 +54,11 @@ Though you can never attain perfection in any of such encompassing goals, you ca
 
 I've delineated for now three practice points.
 
-1. **Internalizing a greater perspective.** Reading or discussing to be transformed, not informed. Read slowly, from the author's perspective, read it as he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. Learn to use a different perspective to investigate your own. In time, you may be able to internalize the external perspective of your dialogue partners and use those to better talk to yourself. Maybe read Plato, but not to be informed, but to learn to dialogue.
+1. **Looking at your thoughts, feelings, emotions and physical sensations rather than through them** by means of describing them in written from from a third person perspective, in order to be able to separate yourself from them, spend time with them and investigate them properly.
+2. **Internalizing a greater perspective** in order to transcend and complete your current one.
+3. **Engaging in investigative dialogue with others** in order to tie both those ends together, such that they, from their external standpoint, can help you investigate and transcend your current perspective.
 
-2. **Engaging in investigative dialogue with others.** Talk with others such that they, from their external perspective, can help you investigate and transcend your perspective.
-
-3. **Writing down your thoughts.** Writing puts you in a third person perspective. You can look at your thoughts rather than through your thoughts. Write down everything you think and feel, try to investigate the throughts and feelings without judgement, see their purpose and intent, understand where they come from and what they're aiming at. See how your thoughts, actions and emotions interact with themselves and with the world. Note it down. And if possible, bring it up for discussion with other people.
-
+Details on these practices can be found in the [Ecology of Practices](./ecology_of_practices.md).
 ___
 
 "What different perspective can I engage with?"
