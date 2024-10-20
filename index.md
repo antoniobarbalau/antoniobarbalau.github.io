@@ -2,6 +2,7 @@
 
 ## Summaries
 
+- [Extended Naturalism](extended_naturalism.md)
 - [Dialogue](dialogue.md)
 - [Duty](duty.md)
 
