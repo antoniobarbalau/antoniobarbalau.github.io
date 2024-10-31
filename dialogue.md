@@ -13,7 +13,6 @@ I would say that the trajectory of a falling rock is grounded in the laws of phy
 It is important to note the two properties that the laws of physics manifest with regard to the falling rocks: they ground and they explain. It is important to note that the trajectories of falling rocks are grounded in the laws of physics, to note that the laws of physics manifest themselves in the trajectory of every falling rock, because noting this enables us to model these laws. That is, since the laws of physics manifest themselves in the trajectory of every rock, we can model them by abstracting out that which is common among a large set of instances of rocks being thrown. And it is important to note that these laws of nature explain the trajectories of falling rocks, and use that as a criteria to validate our understanding. That is, our understanding (our model) is as good inasmuch as it can explain (or generate or simulate or predict) the trajectories of falling rocks.
 
 
-
 ## Understanding Nature
 
 Now, it seems to me very desirable to push this to the max: model that which grounds and explains every thing, so we can understand everything. For the purposes of the current work, I will refer to that which grounds and explains every thing, the nature of all things, as Nature. Let's reiterate the two properties it features:
@@ -24,6 +23,10 @@ Now, it seems to me very desirable to push this to the max: model that which gro
 
 Let me dwell on this last point because I find it so awesome. That which grounds and explains all beings is not itself any being. That which grounds and explains all phenomena is not itself a phenomena. That which grounds and explains all ideas is not itself an idea. That which grounds and explains both good and bad is not itself good or bad, it is that which grounds and explains both of them. That which grounds and explains all things which are caused is not itself a thing which is caused. That which grounds and explains all things which observe and all things which are observed is not something which observes or something which is observed. That which grounds and explains all intelligible things is not itself an intelligible thing. So you can never get to know it.
 
+
+## Optimizing Goals
+
+Maybe we don't need to understand everything, maybe we just need to understand how to act in order to fulfil our goal. But which goal? Avoiding pain would be a straight answer.  
 
 
 ## Understanding how to act
