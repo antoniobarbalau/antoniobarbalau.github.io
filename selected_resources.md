@@ -4,19 +4,15 @@
 
 ## Books
 
-1. Viktor Frankl - Yes to life, in spite of everything
-2. Viktor Frankl - Man's search for meaning
-3. Ann Weiser Cornell - The Power of Focusing: A Practical Guide to Emotional Self-Healing
-4. Robert Sapolsky - Determined: A science of life without free will
-5. Richard Schwartz - No Bad Parts
-6. Pierre Hadot - What is ancient philosophy?
-7. Pierre Hadot - The inner citadel
-8. Kosho Uchiyama - Opening the hand of thought
-9. Shohaku Okumura - Living by vow
-10. Plato - Complete works
-   - Maybe start with Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium, Euthyphro, Apology, Crito, Phaedo
-11. Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry - Francisco Gonzalez
-
+1. Leo Tolstoy - The Death of Ivan Ilyich
+2. Plato - Complete works
+   - Maybe start with Euthyphro, Apology, Crito, Phaedo, Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium
+3. Pierre Hadot - What is ancient philosophy?
+4. Pierre Hadot - The inner citadel
+5. Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry - Francisco Gonzalez
+6. Plato's Critique of Impure Reason: On Goodness and Truth in the Republic - D.C. Schindler
+7. Ann Weiser Cornell - The Power of Focusing: A Practical Guide to Emotional Self-Healing
+8. Robert Sapolsky - Determined: A science of life without free will
 
 
 ## Videos
