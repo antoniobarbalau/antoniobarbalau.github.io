@@ -4,15 +4,15 @@
 
 ## Books
 
-1. Leo Tolstoy - The Death of Ivan Ilyich
+1. The Death of Ivan Ilyich - Leo Tolstoy
 2. Plato - Complete works
    - Maybe start with Euthyphro, Apology, Crito, Phaedo, Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium
-3. Pierre Hadot - What is ancient philosophy?
-4. Pierre Hadot - The inner citadel
+3. What is ancient philosophy? - Pierre Hadot
+4. The inner citadel - Pierre Hadot
 5. Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry - Francisco Gonzalez
 6. Plato's Critique of Impure Reason: On Goodness and Truth in the Republic - D.C. Schindler
-7. Ann Weiser Cornell - The Power of Focusing: A Practical Guide to Emotional Self-Healing
-8. Robert Sapolsky - Determined: A science of life without free will
+7. The Power of Focusing: A Practical Guide to Emotional Self-Healing - Ann Weiser Cornell
+8. Determined: A science of life without free will - Robert Sapolsky
 
 
 ## Videos
