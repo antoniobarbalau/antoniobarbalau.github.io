@@ -42,11 +42,7 @@ Taking 20 min savoring vacantions as described in chapter 8 of "Savoring: A New 
 	1. Have to give it your all, get completely engaged in the process.
 	2. Give up desire and expectation for the duration of the process, as these will break your concetration. Desire is a contract with yourself to be miserable until the object of your desire has been achieved. Expectation is a contract with yourself to be miserable from now on because your expectations have not been met. They will both keep you busy with things unrelated to making the next step in your activity.
 
-### 1.7 Engaging in taking care of others as need be
-
-### 1.8 Engaging in taking care of society through your job but not only
-
-### 1.9 Engaging in taking care of something which transcends you. Something you want to exist even if you won't.
+### 1.7 Helping others
 
 
 ## 2. Just Sitting
@@ -62,21 +58,11 @@ It may be very difficult to realize when you've drifted in thought. So, at first
 The goal is the practice (of returning when derailed) itself. Nothing else.
 
 
-## 3. Memento Mori
-
-When you wake up think "I may never get to sleep again". When you leave think "I may never return". Then you come back consider that "I may never leave again". When you cook remember that "This might be the last time I'm cooking for myself". When you eat remember that "This may be my last meal". When you hug someone remember that "This may be the last time I'm hugging him". When listening to music remind youself that "This may be the last time I'm enyoing music". At evening "I have complete now the course; That fortune long ago alloted me" ("Viata menita de sorti am trait-o"),"Now I rest.". Don't force anything, just keep reminding yourself. Life is not about its length but about its intensity and meaning. "Some people live as if they would never die and then die as if they have never lived."
-
-
-## 4. Internalizing a Greater Perspective
+## 3. Internalizing Socrates
 
 Reading, discussing or witnessing to be transformed, not informed. Find a perspective which transcends or completes your current one in significant ways. Read slowly, from the author's perspective, read it the way he would say it. Maybe read it out loud. Find a piece a sentence or a sentence you liked, go over that many times, think about the mind that produced that, try to get into the mind of the one who thought that, imagine what it is like to think like that. As often as possible in your daily encounters, reach to these more encompassing perspectives to aid you in your affairs. When stuck, ask yourself: "From which different perspective could I approach this?"
 
+## 4. Exposure
 
-## 5. Engaging in dialogue with peers, investigating and transcending your perspective
+As in CBT.
 
-Talk with others such that they, from their external standpoint, can help you investigate and transcend your current perspective. If, for the day you don't have such a partner, find an idea you feel certain about, and then find a way in which it's inadequate, take a different perspective which combats it, try to live that other perspective and understand it, and try to understand the flaws of your current one. Then adopt a new perspective on the issue, and combat the new one. Then another new perspective, and combat it again.
-
-
-## 6. Looking at your thoughts, feelings, emotions and physical sensations rather than through them
-
-For instance by writing. Writing puts you in a third person perspective. Write down everything you think and feel from a third person perspective. Instead of looking *through* your thoughts "If I don't pass this exam I'm going to die", writing enables you to look *at* your thoughts, by getting you into the position of describing them rather than living them, "A part of me thinks that if I don't pass the exam I'm going to die. It feels that the exam is important for my future career. It pressures me to do my best at the exam in order to open up a better life for us. I understand why it plays an imperative role in my life. There is another part of me which feels that the tension is too high and can't focus properly. This part of me thinks that the pressure we put on ourselves is too high, to the point at which it is preventing us from performing our best. ..." Try to investigate the thoughts and emotions without judgement, see their purpose and intent, understand where they come from and what they're aiming at. Describe them to the best of your abilities. Embrace and approach all your thoughts, feelings, emotions and physical sensations with loving kindness. Understand that all of them have evolved to serve a purpose. Our aim is not to banish them, but to understand them and receive their feedback. We bring all of these perspectives out to give each of them a larger and more encompassing point of view. See how your thoughts, actions and emotions interact with each other and with the world. Note it down. And if possible, bring it up for discussion with other people. Let internal discussions commence, listen to all the sides.
