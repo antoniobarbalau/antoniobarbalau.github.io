@@ -1,4 +1,4 @@
-# Duty
+# Connectedness
 
 
 ## Meaning
