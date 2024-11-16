@@ -29,7 +29,7 @@ According to the work of Dr. John Vervaeke, these are the saples of meaning in l
 
 The question for a meaningful life is not "How can the world serve me better?", "How can I accumulate more wealth? How can I make those people and those experiences please me more?", but rather, a meaningful life is lived by continously asking yourself "How can I be more relevant to myself, to others and to the world at large?" and answering this question in way you live your life, answering this question with your every action.
 
-And there is always someone or something out there relying on you to do something. There is always someone or something out there that you can love.
+And there is always someone or something out there relying on you to do something (Viktor Frankl - "Man's search for meaning", "Yes to life, in spite of everything"). There is always someone or something out there that you can love.
 
 
 

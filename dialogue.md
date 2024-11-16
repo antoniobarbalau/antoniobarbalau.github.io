@@ -68,18 +68,7 @@ The way I see it now, we're just finite computational machines making miss-infor
 
 Though you can never attain perfection in any of such encompassing goals, you can always, to some degree, transcend your current limitations in understanding through dialogue. My cognitive framework is transparent to me because I'm looking through it, not at it (the way you can only look through your eyes and not at your eyes without external help), but a different individual can look at it (because he's on the outside) instead of through it (like I do) and notice its limitations. Furthermore, the other individual is able to supply my computational finitude and limited experience with his computational power and experience. In time, you may be able to internalize the perspective of your dialogue partner and use that to internally challenge some points without needing assistance save for rare circumstances.
 
-
-
-## Dialogue
-
-I've delineated for now three practice points.
-
-1. **Looking at your thoughts, feelings, emotions and physical sensations rather than through them** by means of describing them in written from from a third person perspective, in order to be able to separate yourself from them, spend time with them and investigate them properly.
-2. **Internalizing a greater perspective** in order to transcend and complete your current one.
-3. **Engaging in investigative dialogue with others** in order to tie both those ends together, such that they, from their external standpoint, can help you investigate and transcend your current perspective.
-
-These practices are further detailed in [Ecology of Practices](./ecology_of_practices.md).
-
-___
-
-"What different perspective can I engage with?"
+What is ancient philosophy? - Pierre Hadot
+The inner citadel - Pierre Hadot
+Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry - Francisco Gonzalez
+Plato's Critique of Impure Reason: On Goodness and Truth in the Republic - D.C. Schindler
