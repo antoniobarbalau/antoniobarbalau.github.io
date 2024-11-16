@@ -3,6 +3,10 @@
 
 ## Meaning
 
+I am struck by the difference between the death of Ivan Ilych (Leo Tolstoy) and the death of socrates (Plato - Euthyphro, Apology, Crito, Phaedo). Ivan prioritized his career and status. He ignored his relationship with his family, and only made formal bonds with his coworkers. Upon his death, the first thing that preoccupied his coworkers was to find ways to promote their relatives up the chain of status in order to fill the newly open positions. With regards to the death of Ivan, they were bothered by the fact that now they have to go through the formalities and attend his funeral. His family despised him and the only interest of the widow was to squeeze the largest amount of money she could squeeze from his death. Ivan Ilych himself, had an awful time before his death, truly afraid of that which awaited him. He was deeply tormented by the awareness that he was going to die.
+
+Socrates, in contrast, welcomed his death, he had the opportunity to avoid it but chose not to. He slept soundly during the nights before his death
+
 There is no meaning of life, because meaning is not an objective property, such as height. Neither is it a subjective one. Neither subjects nor objects can generate or have any meaning on their own. Meaning is a transjective property, i.e. a property of the relationship between the subject and the object. A particular object has a particular meaning to a particular subject in a particular circumstance at a particular point in time.
 
 As such, meaning is not to be found in any object, but rather, meaning is to be found in our relationships. And there is always someone or something out there relying on you to do something. There is always someone or something out there that you can love.
