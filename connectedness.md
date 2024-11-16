@@ -1,11 +1,19 @@
 # Connectedness
 
 
-## Meaning
+## Death
 
 I am struck by the difference between the death of Ivan Iliych (Leo Tolstoy) and the death of Socrates (Plato - Euthyphro, Apology, Crito, Phaedo). Ivan prioritized his career and status. He ignored his relationship with his family, and only made formal bonds with his coworkers. Upon his death, the first thing that preoccupied his coworkers was to find ways to promote their relatives up the chain of status in order to fill the newly open positions. They were glad that he died and opened up these positions. With regards to the death of Ivan, they were bothered by the fact that now they have to go through the formalities and attend his funeral. His family despised him and the only interest of the widow was to squeeze the largest amount of money she could squeeze from his death. Ivan Ilych himself, had an awful time before his death, truly afraid of that which awaited him. He was deeply tormented by his awareness of the fact that he was going to die.
 
-Socrates, in contrast, welcomed his death. He had the opportunity to avoid it but chose not to. He slept soundly during the nights before his death and during the time he awaited his execution he endeavored to pursue the beauty of poetry peacefully. He had many friends there with him, all trying to save him in one way or another, horrified of losing their friend, they were even ready to sacrifice all their wealth and status and put their family in danger in order to save Socrates. 
+Socrates, in contrast, welcomed his death. He had the opportunity to avoid it but chose not to. He slept soundly during the nights before his death. During the time he awaited his execution he endeavored to pursue the beauty of poetry peacefully. He had many friends there with him, all trying to save him in one way or another, horrified of losing their friend, they were even ready to sacrifice all their wealth and status and put themselves and their families in danger in order to save Socrates. He drank the poison willingly and his last words were "Crito, we owe a cock to Asclepius", which was what people did to thank the god of medicine for curing them.
+
+
+# Life
+
+Ivan lived a life intensely focused on his status, on his career and on culmulating wealth. Upon his death, he was relieved of all of those. He took with him neither his position in the society (from which he was quickly replaced), nor his status (people dreaded the thought of having to waste time attending his funeral), nor his wealth. By contrast, Socrates focused on neither of those. In fact, Scorates excessively neglected and sacrified those aspects of his life. Socrates, in return, focused solely on his characther. And his characther still endures today, 2500 years later, through the writings of Plato, and through the living spirit of the Academy and the western thought which rely on Socrates as their foundation. His character continues still to this day to educate people and guide them towards the love of wisdom. His character is still alive and flourishing, studied, loved and manifested by thousands of people.
+
+
+## Meaning
 
 There is no meaning of life, because meaning is not an objective property, such as height. Neither is it a subjective one. Neither subjects nor objects can generate or have any meaning on their own. Meaning is a transjective property, i.e. a property of the relationship between the subject and the object. A particular object has a particular meaning to a particular subject in a particular circumstance at a particular point in time.
 
