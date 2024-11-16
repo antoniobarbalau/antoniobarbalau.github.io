@@ -27,8 +27,7 @@ According to the work of Dr. John Vervaeke, these are the saples of meaning in l
 2. Your relationship with others. (Who will be there waiting by the gates of dawn when I close by eyes for ever?)
 3. Your relationship with something which transcends you. Something you would want to exist even if you do not. That could be a child, a form of art, or a greater cause such as the pursuit of Wisdom. (What is something I want to exist even if I don't and how much of a difference do I make to it?)
 
-
-
+The question for a meaningful life is not "How can the world serve me better?", "How can I accumulate more wealth? How can I make those people and those experiences please me more?", but rather, a meaningful life is lived by continously asking yourself "How can I be more relevant to myself, to others and to the world at large?" and answering this question in way you live your life, answering this question with your every action.
 
 And there is always someone or something out there relying on you to do something. There is always someone or something out there that you can love.
 
