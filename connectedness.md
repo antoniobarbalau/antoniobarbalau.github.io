@@ -15,9 +15,17 @@ Ivan lived a life intensely focused on his status, on his career and on culmulat
 
 ## Meaning
 
-There is no meaning of life, because meaning is not an objective property, such as height. Neither is it a subjective one. Neither subjects nor objects can generate or have any meaning on their own. Meaning is a transjective property, i.e. a property of the relationship between the subject and the object. A particular object has a particular meaning to a particular subject in a particular circumstance at a particular point in time.
+Asking "What is the meaning of life?" is assumming that meaning is an objective property, i.e. a property of the object in cause, a property life. Similar to how asking "What is the height of that bridge?" places "height" as a property of the "bridge". However, meaning is not a property of objects. An object is not in itself meaningful in any way. A clay tablet from 5000 years ago laying on the ground is a pricelss artefact for an archeologist, but to a shepard just passing by it may just be a piece of dirty clay he stumbled his foot upon, cursing and kicking it in rage. Getting on top of a mountain may be meaningful to some people but not to others. Meaning is not an objective property, meaning is not a property of objects. Nor is it subjective, a property of the subjects. A subject cannot experience meaning regardless of the circumstances. Meaning is neither subjective nor objective, but transjective. Some people find some things meaningful at some place in time. Meaning is a property of the relationship between the subject and the object. The relationship between the subject and the object can be meaningful or not. The subject is not meaningful, the object is not meaningful, it is the relationship between the subject and the object that can be meaningful. So meaning is to be found in relationships. There is no meaning of life. There is only meaning in life, in the way you life your life. The way you life your life is your relationship with life. Your relationship with life can be meaningful or not. Meaning is to be found in relationships.
 
-As such, meaning is not to be found in any object, but rather, meaning is to be found in our relationships. And there is always someone or something out there relying on you to do something. There is always someone or something out there that you can love.
+I find these to be one some the core differences between Ivan and Socrates:
+1. Ivan focused on external objects (status, wealth) while Socrates focused on the way he lived his life (on his relationship with life). Socrates focused on his character. Socrates had a good relationship with himself, he focused on developing and taking care of himself. He focused on building his character, not on accumulating external objects.
+2. Ivan ran away from the his relationship with his family. Ivan kept his work relationship stricly professional. Socrated focused intently on his relationship with the others. He engaged in a neverending pursuit of helping them cultivate their charactes. He stopped by anytime he had the chance (Lysis, Laches), even after just coming from war (Charmides), to talk with his friends and help them cultivate themselves and to help them investigate themselves (Meno). He has put his life in danger to protect his country during war and to save the life of his friend (Symposium).
+3. 
+
+
+
+
+And there is always someone or something out there relying on you to do something. There is always someone or something out there that you can love.
 
 
 
