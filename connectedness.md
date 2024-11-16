@@ -8,9 +8,9 @@ I am struck by the difference between the death of Ivan Iliych (Leo Tolstoy) and
 Socrates, in contrast, welcomed his death. He had the opportunity to avoid it but chose not to. He slept soundly during the nights before his death. During the time he awaited his execution he endeavored to pursue the beauty of poetry peacefully. He had many friends there with him, all trying to save him in one way or another, horrified of losing their friend, they were even ready to sacrifice all their wealth and status and put themselves and their families in danger in order to save Socrates. He drank the poison willingly and his last words were "Crito, we owe a cock to Asclepius", which was what people did to thank the god of medicine for curing them.
 
 
-# Life
+## Life
 
-Ivan lived a life intensely focused on his status, on his career and on culmulating wealth. Upon his death, he was relieved of all of those. He took with him neither his position in the society (from which he was quickly replaced), nor his status (people dreaded the thought of having to waste time attending his funeral), nor his wealth. By contrast, Socrates focused on neither of those. In fact, Scorates excessively neglected and sacrified those aspects of his life. Socrates, in return, focused solely on his characther. And his characther still endures today, 2500 years later, through the writings of Plato, and through the living spirit of the Academy and the western thought which rely on Socrates as their foundation. His character continues still to this day to educate people and guide them towards the love of wisdom. His character is still alive and flourishing, studied, loved and manifested by thousands of people.
+Ivan lived a life intensely focused on his status, on his career and on culmulating wealth. Upon his death, he was relieved of all of those. He took with him neither his position in the society (from which he was quickly replaced), nor his status (people dreaded the thought of having to waste time attending his funeral), nor his wealth. By contrast, Socrates focused on neither of those. In fact, Scorates excessively neglected and sacrified those aspects of his life. Socrates, in return, focused solely on his characther. And his characther still endures today, 2500 years later, through the writings of Plato, and through the living spirit of the Academy and the western thought which rely on Socrates as their foundation. His character continues still to this day to educate people and guide them towards the love of wisdom (philosophy). His character is still alive and flourishing, studied, loved and manifested by thousands of people.
 
 
 ## Meaning
@@ -20,7 +20,12 @@ Asking "What is the meaning of life?" is assumming that meaning is an objective 
 I find these to be one some the core differences between Ivan and Socrates:
 1. Ivan focused on external objects (status, wealth) while Socrates focused on the way he lived his life (on his relationship with life). Socrates focused on his character. Socrates had a good relationship with himself, he focused on developing and taking care of himself. He focused on building his character, not on accumulating external objects.
 2. Ivan ran away from the his relationship with his family. Ivan kept his work relationship stricly professional. Socrated focused intently on his relationship with the others. He engaged in a neverending pursuit of helping them cultivate their charactes. He stopped by anytime he had the chance (Lysis, Laches), even after just coming from war (Charmides), to talk with his friends and help them cultivate themselves and to help them investigate themselves (Meno). He has put his life in danger to protect his country during war and to save the life of his friend (Symposium).
-3. 
+3. Ivan cultivated no relationship with something bigger than him. Meanwhile, Socrates spent his entire life preparing himself for death. He engaged himself in a never ending pursuit (Euthyphro) of Wisdom, Justice, Courage and Moderation. He dedicated his life to the love of Wisdom, and to instilling that love in others. He dedicated his life to and was happy to forfeit his life for Justice.
+
+According to the work of Dr. John Vervaeke, these are the saples of meaning in life:
+1. Your relationship with yourself. (Was I an asshole my whole life?)
+2. Your relationship with others. (Who will be there waiting by the gates of dawn when I close by eyes for ever?)
+3. Your relationship with something which transcends you. Something you would want to exist even if you do not. That could be a child, a form of art, or a greater cause such as the pursuit of Wisdom. (What is something I want to exist even if I don't and how much of a difference do I make to it?)
 
 
 
