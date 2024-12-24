@@ -23,7 +23,7 @@ I find these to be one some the core differences between Ivan and Socrates:
 3. Ivan cultivated no relationship with something bigger than him. Meanwhile, Socrates spent his entire life preparing himself for death. He engaged himself in a never ending pursuit (Euthyphro) of Wisdom, Justice, Courage and Moderation. He dedicated his life to the love of Wisdom, and to instilling that love in others. He dedicated his life to and was happy to forfeit his life for Justice.
 
 According to the work of Dr. John Vervaeke, these are the saples of meaning in life:
-1. Your relationship with yourself. (Was I an asshole my whole life?)
+1. Your relationship with yourself. (Was I an asshole my whole life? Do you hate yourself for the kind of person you've been? Have you been the kind of person you wanted to be?)
 2. Your relationship with others. (Who will be there waiting by the gates of dawn when I close by eyes for ever?)
 3. Your relationship with something which transcends you. Something you would want to exist even if you do not. That could be a child, a form of art, or a greater cause such as the pursuit of Wisdom. (What is something I want to exist even if I don't and how much of a difference do I make to it?)
 
@@ -38,6 +38,17 @@ And there is always someone or something out there relying on you to do somethin
 Consider buying a book. A PhD thesis, the result of 5 years of study and experience, has around 200 citations, each with at an average of 4 authors. That's at least 800 direct contributors. A great book is the result of a lifetime of study and experience. If you trace the ideas back you will quickly get to hundreds of thousands of contributors. But prior work with regards to the ideas presented is not the only contribution society needs to provide in order for that book to exists in its current form. Language has to have been developed in a cross-generation effort involving millions of individuals. The culture which gives the book its context and within which the book is embedded has to have been developed through the interaction of hundreds of millions of people through the ages. The fact that the book is available to you and others in your native language, or that you're able to read it in a foreign language, is again the result of millions of people collaborating, bridging the cultures and languages. In order for the book to physically exist, 
 
 ## Biological interconnectedness
+
+We are like the waves which are comprised by the sea. The sea is not there to serve the waves or to fit to the waves' idea of the world, the waves are there to manifest the sea.
+
+Humanity is not here to serve you, to pleasure you or to fit to your model of the world or your exectation. You are here to serve in manifesting humanity.
+
+## Reciprocal Opening and Realizing the Moreness
+
+as a model for good relationships
+
+
+## Having vs being
 
 
 

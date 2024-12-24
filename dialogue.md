@@ -72,4 +72,4 @@ What is ancient philosophy? - Pierre Hadot
 The inner citadel - Pierre Hadot
 Philosophy as a way of life - Pierre Hadot
 Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry - Francisco Gonzalez
-Plato's Critique of Impure Reason: On Goodness and Truth in the Republic - D.C. Schindler
+Plato's Critique of Impure Reason: On Goodness and Truth in the Republic - D.C. Schindler 
