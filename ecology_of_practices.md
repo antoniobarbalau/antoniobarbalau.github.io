@@ -66,6 +66,8 @@ Engaging in 20 min savoring vacantions as described in chapters 1 and 8 of "Savo
 	1. Have to give it your all, get completely engaged in the process.
 	2. Give up desire and expectation for the duration of the process, as these will break your concetration. Desire is a contract with yourself to be miserable until the object of your desire has been achieved. Expectation is a contract with yourself to be miserable from now on because your expectations have not been met. They will both keep you busy with things unrelated to making the next step in your activity.
 
+**Current implementation:** Archery practice once a week.
+
 ## Internalizing Socrates
 
 Reading be transformed, not informed. Reading slowly, focusing on the character behind the unfolding of the events, not on the words per se. Reading to get the perspective of Socrates. Maybe finding a piece of text which speaks to you and reading it out loud, think about the mind that produced that, trying to embody the mind which produced that response, trying to get into Socrates' skin. Try to get into the mind of the one who thought that, imagine what it is like to think like that, to say that in that situation. Get into Socrates' love of wisdom.
