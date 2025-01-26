@@ -55,4 +55,4 @@ Worked on an Automated Vouchering Tool. The project aimed at extracting data fro
 
 ---
 
-I am also building a commonplace.
+I am also building a [commonplace](commonplace/index.md).
