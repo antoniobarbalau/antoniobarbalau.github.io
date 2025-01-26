@@ -31,3 +31,28 @@ Involved in research at the UCF Center for Research on Computer Vision on multi-
 
 ## Industry Experience
 
+### Senior Machine Learning Researcher
+
+**[Bitdefender](https://bit-ml.github.io)** *2024 - Present*
+
+Developing novel approaches for domain generalization and bias detection and prevention. Currently focusing on improving the generalization capabilities of fine-tuned foundation models.
+
+
+### Head of AI
+
+**[Vatis Tech](https://vatis.tech/)** *2023 - 2024*
+
+Research and development for complete Automatic Speech Recognition systems: multi-lingual transcription, word-level timestamps, speaker diarization, real-time inference (stream processing). Most notably: developed a transcription system capable of transcribing audios featuring multiple languages and real-time language switches, proposed and developed a novel end-to-end speaker diarization deep learning model capable of real-time performance.
+
+
+### Machine Learning Research and Development
+
+**[Sparktech Software](https://sparktech.ro/)** *2017 - 2020*
+
+Worked on an Automated Vouchering Tool. The project aimed at extracting data from invoices and invoice-like documents in order to be compared to a General Ledger. Invoices did not come in any predefined templates or structures. My contribution included research and development on many deep learning sub-projects such as: signature detection and matching, logo detection and matching, page deskewing and handwritten number extraction. I’ve also coordinated the research and development for an Explainable AI platform hosted on the cloud. As part of the research done for this project I have proposed a novel exemplar synthetization framework which can be found [here](https://arxiv.org/abs/2006.03896).
+
+
+
+---
+
+I am also building a commonplace.
