@@ -6,3 +6,5 @@ title: Antonio Barbalau
 description: Machine Learning Researcher
 logo: logo.png
 show_downloads: false
+github:
+  is_user_page: false
