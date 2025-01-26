@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Antonio Barbalau
-description: Machine Learning Researcher
+description: Machine Learning Researcher @ <a href="https://bit-ml.github.io/">Bitdefender</a>
 logo: logo.png
 show_downloads: false
 github:
