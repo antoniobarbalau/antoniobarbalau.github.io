@@ -8,7 +8,7 @@
 
 ### Sleeping
 
-In healthy manner, informed by the best science of the day. "The day starts with evening zazen and sleep is part of 24h practice" - Kosho Uchiyama.
+In healthy manner, informed by the best science of the day.
 
 **Useful resources:**
 - Matthew Walker - Why we sleep?
@@ -21,6 +21,7 @@ In a healthy manner, informed by the best science of the day.
 
 **Useful resources:**
 - https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2024/01/HLGuide2023-2024.pdf
+- https://www.youtube.com/watch?v=jwHlyLEZJYY
 
 
 ### Exercising
@@ -51,23 +52,18 @@ My house does not have to be a palace, it just has to be safe, clean and welcomi
 
 ## Emotional
 
-### Just Sitting / Just Breathing
+### Spending time with ourself without desire or expectations
 
-Sit and breathe with no desire or expectations. Rediscover the pleasure of simply being. This is the basis of love, the ability to just take the time to sit there with yourself, the ability to just sit there with whatever comes up in our mind, with whatever emotions comes up and with whatever physical sensation comes up. Just sit there with it, with no desire or expectations, without judging, just being there with it. Just sitting there with you as you are. Accepting yourself as you are. Just sitting there with the world as it is. Accepting the world as it is.
+I like to do this in the form of written illeism. Narrating my thoughts, emotions and physical sensations alongside the things which happen to my from a third person perspective without expectations or desires, as matter-of-fact as possible. Just spending time to listen to everything that wants to get out.
 
-(i) Sit, ideally, facing a wall, (ii) with eyes open looking a short distance ahead (but don't force it), (iii) in a position in which you won't fall asleep while (iv) belly breathing. Ideally for at least 20 mins.
+E.g. "A part of Antonio is anxious. A part of Antonio is angry that he gets so emotional, because it thinks it impedes the preparation for tomorrow."
 
-Whenever a thought captures your attention, neither push it away, nor entertain it. The desire to have no desire is still a desire. The expectation to have no throughts is still an expectation. When derailed, simply return to just sitting with your bones and muscles, letting the tought continue in the background and do its thing. A good analogy is the sky which lets the clouds pass without interfering, without identifying with any of them, without attaching to any of them or pushing them away.
+Wrong: "Antonio is stupid." Right: "A part of Antonio thinks that he is stupid."
 
-It may be very difficult to realize when you've drifted in thought. So, at first, you may meditate. When inhaling say in your mind "breathing in", when exhaling say "breathing out". Do not alter your breath, just follow and label it. Use any sentence you see fit. The words don't matter, what matters is using this as a mechanism to help you more easily realized when you get cought in a train of throught. When you notice you've not been labeling your breath, that's when you know you've drifted. Let the thoughts be, and simply and getly return to labeling your breath.
+Wrong: "Antonio is procrastinating." Right: "Antonio feels anxious. This is mainly due to the presentation tomorrow. He feels a tightness in his chest and his palms are sweating. He looks at cat videos to distract himself from his feeelings. A part of him is angry at this behavior and labels it as procrastination."
 
-Alternatively, you can count your breath while trying to pay attention to the sensations in your belly. Let your thoughts be and count your breath. Whenever you realize you've skipped a number, or messed up the numbering, or forgot to count, or forgot where you were with the numbering, start again from 1 without judging yourself. If you start again, that's a good thing, it means you've noticed the drift. The goal is the practice (of returning when derailed) itself. Nothing else.
-
-**Useful resources:**
-3. Thich Nhat Hanh - True Love
-4. Thich Nhat Hanh - The Heart of the Buddha's Teachings
-5. Kosho Uchiyama - Opening the Hand of Thought
-6. Shohaku Okumura - Living by Vow
+**Some useful resources:**
+14. The Power of Focusing: A Practical Guide to Emotional Self-Healing - Ann Weiser Cornell
 
 ### Savoring
 
@@ -91,29 +87,19 @@ Engaging in (20 min) savoring vacantions as described in chapters 1 and 8 of "Sa
 	2. Give up desire and expectation for the duration of the process, as these will break your concetration. Desire is a contract with yourself to be miserable until the object of your desire has been achieved. Expectation is a contract with yourself to be miserable from now on because your expectations have not been met. They will both keep you busy with things unrelated to making the next step in your activity.
 
 
-### Metta
+### Consciously engaging in acts of self-care
 
-[connection](commonplace/connectedness.md)
-
-**Some useful resources:**
-- Viktor Frankl - Man's search for meaning
-- Viktor Frankl - Yes to life, in spite of everything
+Cooking for yourself as a nurturing act towards yourself. Taking time to clean your room as a gesture of care for yourself. Taking care of your health as an act of kindness directed towards yourself.
 
 
 ## Mental
 ### Internalizing Socrates
 
-> From time to time the Buddha refused to answer a question posed to him. The philosopher Vatsigotra asked, "Is there a self?" and the Buddha did not say anything. Vatsigotra persisted, "Do you mean there is no self?" but the Buddha did not reply. Finally, Vatsigotra left. Ananda, the Buddha's attendant, was puzzled. "Lord, you always teach that there is no self. Why did you not say so to Vatsigotra?". The Buddha told Ananda that he did not reply because Vatsigotra was looking for a theory, not a way to remove obstacles. On another occasion, the Buddha heard a group of disciples discussing whether or not he had said such and such and he told them: "For forty-five years, I have not uttered a single word." For he did not want his disciples to be caught by words and notions, even his own. -- Thich Nhat Hanh, The Heart of the Buddha's Teachings
-
-> My teachings are like a finger pointing to the moon. Do not mistake the finger for the moon. -- The Buddha
-
 > So much at least I can confirm with confidence about any who have written or propose to write on these questions, pretending to a knowledge of the problems with which I am concerned, whether they claim to have learned from me or from others or to have made their discoveries from themselves: it is impossible, in my opinion, that they can have learned anything at all about the subject. There is no writing of mine about these matters, nor will there ever be one. For this knowledge is not something that can be put into words like other sciences; but after long-continued intercourse between teacher and pupil, in joint pursuit of the subject, suddenly, like light flashing forth when a fire is kindled, it is born in the soul and straightway nourishes itself. -- Plato, 7th letter
 
 > Cleanthes would never have been the image of Zeno if he had merely heard him lecture; he lived with him, studied his private life, watched him to see if he lived in accordance with his own principle. Plato, Aristotle and a host of other philosophers all destined to take different paths, derived more from Socrates' character then from his words. It was not Epicurus' school but living under the same roof as Epicurus that turned Metrodorus, Hermarchus and Polyaenus into great men. And yet I do not summon you to my side solely for the sake of your own progress but for my own as well, for we shall be of the utmost benefit to each other. -- Senecta, to Lucilium
 
-To the best of my understanding, Plato offered us to opportunity to accompany Socrates on his daily affairs. The dialogues end, as expected, without a verbal conclusion due to the [tranjective](commonplace/dialogue.md) nature of the virtues. However, Socrates, manifests piety in Euthyphro, moderation in Charmides, courage in Laches, frienship in Lysis and his approach towards Hippias is beautiful, to give a few examples. Similar to the Buddha, Socrates did not want his friends to get caught up in words, but rather, he seemed to want to teach them a way of life.
-
-To me, this practice is about reading be transformed, not informed. Getting into Socrates' love of wisdom. Reading slowly, focusing on the character behind the unfolding events, not on the words per se. Reading to get the perspective of Socrates, thinking about the mind that produced those words in that specific situation, trying to embody that mind, trying to get into Socrates' skin. Imagine what it is like to think like that, to say that in that situation. 
+To the best of my understanding, Plato offered us to opportunity to accompany Socrates on his daily affairs. The dialogues end, as expected, without a verbal conclusion due to the [tranjective](commonplace/dialogue.md) nature of the virtues. However, Socrates seems to manifest some form piety in Euthyphro, moderation in Charmides, courage in Laches and frienship in Lysis to give a few examples. But even without this, there is a profound love of wisdom expressed in Socrates' way of life. To me, this practice is about reading be transformed, not informed. Getting into Socrates' love of wisdom. Taking time to admire his relentless pursuit of understanding, taking to admire the way he never gets angry, but rather ever adapts his discourse to make himself understood better, always patient in the discussion. Reading slowly, focusing on the character behind the unfolding events, not on the words per se. Reading to get the perspective of Socrates, thinking about the mind that produced those words in that specific situation, trying to embody that mind, trying to get into Socrates' skin. Imagine what it is like to think like that, to say that in that situation. 
 
 Some useful resources:
 1. Leo Tolstoy - The Death of Ivan Ilyich
@@ -127,18 +113,9 @@ Some useful resources:
 8. Plato's Critique of Impure Reason: On Goodness and Truth in the Republic - D.C. Schindler
 
 
-### Illeism
+### Engaging in stoic practices
 
-Narrating your thoghts, emotions and physical sensations alongside the things which happen to you from a third person perspective without expectations or desires, as matter-of-fact as possible. 
 
-E.g. "A part of Antonio is anxious. A part of Antonio is angry that he gets so emotional, because it thinks it impedes the preparation for tomorrow."
-
-Wrong: "Antonio is stupid." Right: "A part of Antonio thinks that he is stupid."
-
-Wrong: "Antonio is procrastinating." Right: "Antonio feels anxious. This is mainly due to the presentation tomorrow. He feels a tightness in his chest and his palms are sweating. He looks at cat videos to distract himself from his feeelings. A part of him is angry at this behavior and labels it as procrastination."
-
-**Some useful resources:**
-14. The Power of Focusing: A Practical Guide to Emotional Self-Healing - Ann Weiser Cornell
 
 
 ### Studying Nature
@@ -162,18 +139,17 @@ Taking time to study physics, biology, astrobiology, psychology, anthropology, h
 Performing a job which helps contribute to society at large.
 
 
+### Family
+
+Spending time with family.
+
 ### Friends
 
 Spending time with friends, ideally talking to them as you would to a therapist, listening to them as a therapist would, and engaging in fun activities if possible. Engaging in a community in general. Your value system, your knowledge, your practices, cannot remain fixed, you need a community to keep adapting.
 
 
-### Understanding the suffering of others
+### Aiming to help not to gain
 
-seeing and understanding the suffering in others, realizing that the "bad" behavior in others is just a coping mechanism arising from a need to address suffering. see the world through the eyes of the other, understand in which circumstance would you behave the same. understanding does not mean enabling.
-
-
-### Loving speech
-
-As exemplified by Thich Nhat Hanh.
+Approaching each situation with the desire to help as much as possible. When presenting, don't aim to impress, aim to deliver useful information to the others.
 
 
