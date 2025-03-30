@@ -52,22 +52,28 @@ My house does not have to be a palace, it just has to be safe, clean and welcomi
 
 ## Emotional
 
-### Spending time with ourself without desire or expectations
+### Just Sitting / Just Breathing
+Sit and breathe with no desire or expectations. Rediscover the pleasure of simply being. This is the basis of love, the ability to just take the time to sit there with yourself, the ability to just sit there with whatever comes up in our mind, with whatever emotions comes up and with whatever physical sensation comes up. Just sit there with it, with no desire or expectations, without judging, just being there with it. Just sitting there with you as you are. Accepting yourself as you are. Just sitting there with the world as it is. Accepting the world as it is.  
 
-I like to do this in the form of written illeism. Narrating my thoughts, emotions and physical sensations alongside the things which happen to my from a third person perspective without expectations or desires, as matter-of-fact as possible. Just spending time to listen to everything that wants to get out.
+(i) Sit, ideally, facing a wall, (ii) with eyes open looking a short distance ahead (but don't force it), (iii) in a position in which you won't fall asleep while (iv) belly breathing. Ideally for at least 20 mins.
 
-E.g. "A part of Antonio is anxious. A part of Antonio is angry that he gets so emotional, because it thinks it impedes the preparation for tomorrow."
+Whenever a thought captures your attention, neither push it away, nor entertain it. The desire to have no desire is still a desire. The expectation to have no throughts is still an expectation. When derailed, simply return to just sitting with your bones and muscles, letting the tought continue in the background and do its thing. A good analogy is the sky which lets the clouds pass without interfering, without identifying with any of them, without attaching to any of them or pushing them away.
 
-Wrong: "Antonio is stupid." Right: "A part of Antonio thinks that he is stupid."
+It may be very difficult to realize when you've drifted in thought. So, at first, you may meditate. When inhaling say in your mind "breathing in", when exhaling say "breathing out". Do not alter your breath, just follow and label it. Use any sentence you see fit. The words don't matter, what matters is using this as a mechanism to help you more easily realized when you get cought in a train of throught. When you notice you've not been labeling your breath, that's when you know you've drifted. Let the thoughts be, and simply and getly return to labeling your breath.
 
-Wrong: "Antonio is procrastinating." Right: "Antonio feels anxious. This is mainly due to the presentation tomorrow. He feels a tightness in his chest and his palms are sweating. He looks at cat videos to distract himself from his feeelings. A part of him is angry at this behavior and labels it as procrastination."
+Alternatively, you can count your breath while trying to pay attention to the sensations in your belly. Let your thoughts be and count your breath. Whenever you realize you've skipped a number, or messed up the numbering, or forgot to count, or forgot where you were with the numbering, start again from 1 without judging yourself. If you start again, that's a good thing, it means you've noticed the drift. The goal is the practice (of returning when derailed) itself. Nothing else.
 
 **Some useful resources:**
-14. The Power of Focusing: A Practical Guide to Emotional Self-Healing - Ann Weiser Cornell
+1. Thich Nhat Hanh - True Love
+2. Thich Nhat Hanh - The Heart of the Buddha's Teachings
+3. Kosho Uchiyama - Opening the Hand of Thought
+4. Shohaku Okumura - Living by Vow
+
+
 
 ### Savoring
 
-Engaging in (20 min) savoring vacantions as described in chapters 1 and 8 of "Savoring: A New Model of Positive Experience" by Fred B Bryant and Joseph Veroff.
+Engaging in savoring vacantions as described in chapters 1 and 8 of "Savoring: A New Model of Positive Experience" by Fred B Bryant and Joseph Veroff.
 
 ### Fun hobby
 
@@ -87,9 +93,9 @@ Engaging in (20 min) savoring vacantions as described in chapters 1 and 8 of "Sa
 	2. Give up desire and expectation for the duration of the process, as these will break your concetration. Desire is a contract with yourself to be miserable until the object of your desire has been achieved. Expectation is a contract with yourself to be miserable from now on because your expectations have not been met. They will both keep you busy with things unrelated to making the next step in your activity.
 
 
-### Consciously engaging in acts of self-care
+### Values in action
 
-Cooking for yourself as a nurturing act towards yourself. Taking time to clean your room as a gesture of care for yourself. Taking care of your health as an act of kindness directed towards yourself.
+Dedicating your life to a set of values which transcend you. Making each and every moment of your life meaningful by dedicating it to the values you have chosen. Each action is a meaningful one because it contributes to manifesting the values.
 
 
 ## Mental
@@ -111,11 +117,21 @@ Some useful resources:
 6. The inner citadel - Pierre Hadot
 7. Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry - Francisco Gonzalez
 8. Plato's Critique of Impure Reason: On Goodness and Truth in the Republic - D.C. Schindler
+9. Bruce J. Maclennan - The Wisdom of Hypatia
 
 
-### Engaging in stoic practices
+### Getting to know yourself
 
+I like to do this in the form of written illeism. Spending time listening to myself without desire or expectation. Narrating my thoughts, emotions and physical sensations alongside the things which happen to my from a third person perspective without expectations or desires, as matter-of-fact as possible. Just spending time to listen to everything that wants to get out.
 
+E.g. "A part of Antonio is anxious. A part of Antonio is angry that he gets so emotional, because it thinks it impedes the preparation for tomorrow."
+
+Wrong: "Antonio is stupid." Right: "A part of Antonio thinks that he is stupid."
+
+Wrong: "Antonio is procrastinating." Right: "Antonio feels anxious. This is mainly due to the presentation tomorrow. He feels a tightness in his chest and his palms are sweating. He looks at cat videos to distract himself from his feeelings. A part of him is angry at this behavior and labels it as procrastination."
+
+**Some useful resources:**
+1. The Power of Focusing: A Practical Guide to Emotional Self-Healing - Ann Weiser Cornell
 
 
 ### Studying Nature
@@ -131,6 +147,7 @@ Taking time to study physics, biology, astrobiology, psychology, anthropology, h
 
 ### Therapy
 
+CBT / IFS
 
 
 ## Social
