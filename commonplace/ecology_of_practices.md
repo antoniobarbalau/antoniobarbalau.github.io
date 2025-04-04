@@ -63,6 +63,8 @@ It may be very difficult to realize when you've drifted in thought. So, at first
 
 Alternatively, you can count your breath while trying to pay attention to the sensations in your belly. Let your thoughts be and count your breath. Whenever you realize you've skipped a number, or messed up the numbering, or forgot to count, or forgot where you were with the numbering, start again from 1 without judging yourself. If you start again, that's a good thing, it means you've noticed the drift. The goal is the practice (of returning when derailed) itself. Nothing else.
 
+This could be done as a seated practice, but more importantly, all throughout the day. Whenever commuting or waiting for something, if there's nothing that needs thinking about explicitly, return to your breath, even for one breath.
+
 **Some useful resources:**
 1. Thich Nhat Hanh - True Love
 2. Thich Nhat Hanh - The Heart of the Buddha's Teachings
@@ -71,13 +73,11 @@ Alternatively, you can count your breath while trying to pay attention to the se
 
 
 
-### Savoring
+### Savoring and Having Fun
 
-Engaging in savoring vacantions as described in chapters 1 and 8 of "Savoring: A New Model of Positive Experience" by Fred B Bryant and Joseph Veroff.
+Engaging in savoring as described in chapters 1 and 8 of "Savoring: A New Model of Positive Experience" by Fred B Bryant and Joseph Veroff.
 
-### Fun hobby
-
-**Fun:** Playful Connected Flow.
+**Fun:** Playful Connected Flow. (Catherine Price - The Power of Fun)
 
 **Playful:** Engaging for the sake of the activity not for the sake of an outcome.
 
@@ -93,36 +93,11 @@ Engaging in savoring vacantions as described in chapters 1 and 8 of "Savoring: A
 	2. Give up desire and expectation for the duration of the process, as these will break your concetration. Desire is a contract with yourself to be miserable until the object of your desire has been achieved. Expectation is a contract with yourself to be miserable from now on because your expectations have not been met. They will both keep you busy with things unrelated to making the next step in your activity.
 
 
-### Values in action
+### Spending time with yourself
 
-Dedicating your life to a set of values which transcend you. Making each and every moment of your life meaningful by dedicating it to the values you have chosen. Each action is a meaningful one because it contributes to manifesting the values.
+By talking and listening to yourself, by cooking for yourself, by cleaning the room for yourself. Engage in such actions as deliberate acts of caring about yourself and caring for yourself. Let each moment in which you are deliberately taking care of yourself feel heartwarming.
 
-
-## Mental
-### Internalizing Socrates
-
-> So much at least I can confirm with confidence about any who have written or propose to write on these questions, pretending to a knowledge of the problems with which I am concerned, whether they claim to have learned from me or from others or to have made their discoveries from themselves: it is impossible, in my opinion, that they can have learned anything at all about the subject. There is no writing of mine about these matters, nor will there ever be one. For this knowledge is not something that can be put into words like other sciences; but after long-continued intercourse between teacher and pupil, in joint pursuit of the subject, suddenly, like light flashing forth when a fire is kindled, it is born in the soul and straightway nourishes itself. -- Plato, 7th letter
-
-> Cleanthes would never have been the image of Zeno if he had merely heard him lecture; he lived with him, studied his private life, watched him to see if he lived in accordance with his own principle. Plato, Aristotle and a host of other philosophers all destined to take different paths, derived more from Socrates' character then from his words. It was not Epicurus' school but living under the same roof as Epicurus that turned Metrodorus, Hermarchus and Polyaenus into great men. And yet I do not summon you to my side solely for the sake of your own progress but for my own as well, for we shall be of the utmost benefit to each other. -- Senecta, to Lucilium
-
-To the best of my understanding, Plato offered us to opportunity to accompany Socrates on his daily affairs. The dialogues end, as expected, without a verbal conclusion due to the [tranjective](commonplace/dialogue.md) nature of the virtues. However, Socrates seems to manifest some form piety in Euthyphro, moderation in Charmides, courage in Laches and frienship in Lysis to give a few examples. But even without this, there is a profound love of wisdom expressed in Socrates' way of life. To me, this practice is about reading be transformed, not informed. Getting into Socrates' love of wisdom. Taking time to admire his relentless pursuit of understanding, taking to admire the way he never gets angry, but rather ever adapts his discourse to make himself understood better, always patient in the discussion. Reading slowly, focusing on the character behind the unfolding events, not on the words per se. Reading to get the perspective of Socrates, thinking about the mind that produced those words in that specific situation, trying to embody that mind, trying to get into Socrates' skin. Imagine what it is like to think like that, to say that in that situation. 
-
-Some useful resources:
-1. Leo Tolstoy - The Death of Ivan Ilyich
-2. Plato - Complete works
-    - Maybe start with Euthyphro, Apology, Crito, Phaedo, Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium
-3. Donald J. Robertson - How to think like a roman emperor
-4. Donald J. Robertson - How to think like Socrates
-5. What is ancient philosophy? - Pierre Hadot
-6. The inner citadel - Pierre Hadot
-7. Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry - Francisco Gonzalez
-8. Plato's Critique of Impure Reason: On Goodness and Truth in the Republic - D.C. Schindler
-9. Bruce J. Maclennan - The Wisdom of Hypatia
-
-
-### Getting to know yourself
-
-I like to do this in the form of written illeism. Spending time listening to myself without desire or expectation. Narrating my thoughts, emotions and physical sensations alongside the things which happen to my from a third person perspective without expectations or desires, as matter-of-fact as possible. Just spending time to listen to everything that wants to get out.
+With regards to talking and listening to yourself, I like to do this in the form of written illeism. Spending time listening to myself without desire or expectation. Narrating my thoughts, emotions and physical sensations alongside the things which happen to my from a third person perspective without expectations or desires, as matter-of-fact as possible. Just spending time to listen to everything that wants to get out. Getting to know myself.
 
 E.g. "A part of Antonio is anxious. A part of Antonio is angry that he gets so emotional, because it thinks it impedes the preparation for tomorrow."
 
@@ -132,6 +107,43 @@ Wrong: "Antonio is procrastinating." Right: "Antonio feels anxious. This is main
 
 **Some useful resources:**
 1. The Power of Focusing: A Practical Guide to Emotional Self-Healing - Ann Weiser Cornell
+
+
+### Values in action
+
+Dedicating your life to a set of values which transcend you. Making each and every moment of your life meaningful by dedicating it to the values you have chosen. Each action is a meaningful one because it contributes to manifesting the values.
+
+
+## Mental
+### Spending time with sages
+
+> So much at least I can confirm with confidence about any who have written or propose to write on these questions, pretending to a knowledge of the problems with which I am concerned, whether they claim to have learned from me or from others or to have made their discoveries from themselves: it is impossible, in my opinion, that they can have learned anything at all about the subject. There is no writing of mine about these matters, nor will there ever be one. For this knowledge is not something that can be put into words like other sciences; but after long-continued intercourse between teacher and pupil, in joint pursuit of the subject, suddenly, like light flashing forth when a fire is kindled, it is born in the soul and straightway nourishes itself. -- Plato, 7th letter
+
+> Cleanthes would never have been the image of Zeno if he had merely heard him lecture; he lived with him, studied his private life, watched him to see if he lived in accordance with his own principle. Plato, Aristotle and a host of other philosophers all destined to take different paths, derived more from Socrates' character then from his words. It was not Epicurus' school but living under the same roof as Epicurus that turned Metrodorus, Hermarchus and Polyaenus into great men. And yet I do not summon you to my side solely for the sake of your own progress but for my own as well, for we shall be of the utmost benefit to each other. -- Senecta, to Lucilium
+
+Spending time with people like Socrates, Seneca, Marcus Aurelius and Diogenes the Cynic. These writings are not treaties or academic papers, but rather, Socrates engaged in dialogue, Seneca wrote letters, Marcus spoke to himself and Diogenes lived a life that spoke for itself, which was captured in anecdotes. Each of those writings enables us to learn about their characters; in his way of writing, Plato offered us to opportunity to accompany Socrates on his daily affairs. This practice is about reading be transformed, not informed. Socrates seems to manifest some form piety in Euthyphro, moderation in Charmides, courage in Laches and frienship in Lysis to give a few examples. He always manifests patience with his interlocutors and speaks about himself in humble terms. He manifests a relentless pursuit of understanding. So when engaging with those works, the focus is not on the words per se, but rather on spending time with the characther and trying to get a feel for the character, trying to embody the mind that produced that response in that situation, given their conditions. Imagining what it is like to think like them. Reading Seneca's letters as if you were the recipient serves both as companionship and as mentorship. Philosophy as a way of life in the Stoic or Socratic sense has friendship at its core. Become friends with the sages.
+
+My shortlist:
+1.  Plato - Complete works
+    - Maybe starting with Euthyphro, Apology, Crito, Phaedo, Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium
+	- Useful resource: "Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry" - Francisco Gonzalez
+3. Senecta - Letters to Lucilium (from a Stoic)
+4. Marcus Aurelius - Meditations
+5. Epictetus - Complete Works
+6. Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists - Oxford World's Classics
+
+
+### Engaging in philosophy as a way of life
+
+Choosing one Epicurean/Cynic/Stoic/Neoplatonic exercise each week and focusing on it for that week.
+
+Some useful resources:
+1. Donald J. Robertson - How to think like a roman emperor
+2. Donald J. Robertson - How to think like Socrates
+3. What is ancient philosophy? - Pierre Hadot
+4. The inner citadel - Pierre Hadot
+5. Plato's Critique of Impure Reason: On Goodness and Truth in the Republic - D.C. Schindler
+6. Bruce J. Maclennan - The Wisdom of Hypatia
 
 
 ### Studying Nature
@@ -162,7 +174,7 @@ Spending time with family.
 
 ### Friends
 
-Spending time with friends, ideally talking to them as you would to a therapist, listening to them as a therapist would, and engaging in fun activities if possible. Engaging in a community in general. Your value system, your knowledge, your practices, cannot remain fixed, you need a community to keep adapting.
+Spending time with friends, ideally talking to them as you would to a therapist, listening to them as a therapist would, and engaging in fun activities. Engaging in a community in general. Your value system, your knowledge, your practices, cannot remain fixed, you need a community to keep adapting.
 
 
 ### Aiming to help not to gain
