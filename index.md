@@ -56,4 +56,8 @@ Research and development for complete Automatic Speech Recognition systems: mult
 
 **[Sparktech Software](https://sparktech.ro/)** *2017 - 2020*
 
-Worked on an Automated Vouchering Tool project aimed at extracting data from invoices and invoice-like documents in order to be compared to General Ledgers. My contribution included research and development on machine sub-projects such as: signature detection and m atching, logo detection and matching, page deskewing and handwritten number extraction. I have also coordinated the research and development for an Explainable AI platform hosted on the cloud for which I have proposed an [exemplar synthetization framework](https://arxiv.org/abs/2006.03896).
+Worked on an Automated Vouchering Tool project aimed at extracting data from invoices and invoice-like documents in order to be compared to General Ledgers. My contribution included research and development on machine sub-projects such as: signature detection and matching, logo detection and matching, page deskewing and handwritten number extraction. I have also coordinated the research and development for an Explainable AI platform hosted on the cloud for which I have proposed an [exemplar synthetization framework](https://arxiv.org/abs/2006.03896).
+
+## Service
+
+### Served as a reviewer for: EEML (2025)
