@@ -30,7 +30,13 @@
 
 4. **Exercise**
 
-5. **Space**
+
+    > Crates was in the habit of running a certain distance each day, and would say, "I'm running for the sake of my spleen, for the sake of my liver, for the sake of my stomach."  
+    > He was ugly to behold, and when he carried out his exercises, people would laugh at him. As he raised his arms, he used to say to himself, "Courage now, Crates, this is for the good of your eyes and of your whole body; and there will come a day when you will see these people, who are now laughing at you, become shrivelled up by illness, and then they will account you happy and reproach themselves for their idleness!"
+    >
+    > -- From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" - A new translation by Robin Hard - Oxford Classics
+
+6. **Space**
 
     Creating physical, emotional and mental space by focusing on natural needs, engaging in unnecessary pursuits in moderation, and avoiding or very rarely pursuing unnatural desires. Natural desires, needed for healthy life, have a natural limit. There only so much food you need to eat before you don’t feel hungry anymore. There’s only so much water you need to drink before you don’t feel thirsty anymore. There’s only so much heat you need before you don’t feel cold anymore. There’s only so much a shelther has to provide in order to shelter you. I find it blissful to engage in noticing the peacefulness coming from the lack of hunger and the lack of thirst for example.  
 
