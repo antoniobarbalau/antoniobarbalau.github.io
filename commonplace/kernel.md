@@ -74,9 +74,20 @@ I love how both Neoplatonism and Zen Buddhism (but other traditions as well) con
 
 
 ## Book List:
+
+These sorted in a curriculum. This first section contain only very short, easy to read books, covering the very basic principles: (i) the realization that the life full of wealth and fame alone is not meaningful, (ii) the very basics about cultivating loving relationships that are meaningful and (iii) the very basics of getting to know yourself, building a meaningful relationship with yourself and investigating your cognitive patterns.
+
 1. The Death of Ivan Ilyich - Leo Tolstoy
 2. True Love - Thich Nhat Hanh
-3. Protocols: An Operating Manual for the Human Body - Andrew Huberman
-4. The Good Life: Lessons from the World's Longest Scientific Study of Happiness - Robert Waldinger
-5. Pierre Hadot - "What is ancient philosophy?"
-6. Plato - Complete works -- Maybe starting with Euthyphro, Apology, Crito, Phaedo, Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium
+3. The power of focusing - Ann Weiser Cornell
+
+This second section is a bit more in depth and technical, but restricted to three books as well, covering the three layers: physical, emotional and mental. However, it should be mentioned that these books are not restricted to a specific domain, all of them aid in physical, emotional and mental health at the same time, they just come from different angles. The first tackles of course, physical health, the second goes a bit deeper into the impact of relationships, and the third is an introduction to philosophy as a way of life.
+
+1. Protocols: An Operating Manual for the Human Body - Andrew Huberman
+2. The Good Life: Lessons from the World's Longest Scientific Study of Happiness - Robert Waldinger
+3. What is ancient philosophy? - Pierre Hadot
+
+This last section is very in depth, technical, and at points mystical. I did my best to sort them in an order which introduces concepts gradually, such that the mysticism is reduced as much as possible. However, some might still be very hard to grasp without exposure to other materials able to clarify some of the concepts, historical background, etc. If I had to point out a single resource, I would recommend John Vervaeke's work (Awakening from the Meaning Crisis, After Socrates, The God of Einstein and Spinoza, The Philosophical Silkroad, and some of the presentations and conversations he featured on his channel) to fill in these gaps and provide the neccessary background.
+
+5. 
+8. Plato - Complete works -- Maybe starting with Euthyphro, Apology, Crito, Phaedo, Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium
