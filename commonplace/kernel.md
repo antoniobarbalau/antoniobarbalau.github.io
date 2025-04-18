@@ -70,10 +70,8 @@ Now, it seems to me very desirable to push this to the max: model that which gro
 
 Let me dwell on this last point because I find it so awesome. That which grounds and explains all beings is not itself any being. That which grounds and explains all phenomena is not itself a phenomena. That which grounds and explains all ideas is not itself an idea. That which grounds and explains both good and bad is not itself good or bad, it is that which grounds and explains both of them. That which grounds and explains all things which are caused is not itself a thing which is caused. That which grounds and explains all things which observe and all things which are observed is not something which observes or something which is observed. That which grounds and explains all intelligible things is not itself an intelligible thing. So you can never get to know it.
 
-I love how both Neoplatonism and Zen Buddhism (but other traditions as well) converged to this idea even though they were not interacting, even though they were operating in completely different contexts and even though they have started from completely different backgrounds. In general, I find the similarities between Neoplatonism (as expressed for instance by John Vervaeke in "Awakening from the Meaning Crisis" and "After Socrates" while currently preparing his new series entitled "The philosophical silkroad" aimed specifically at pointing out the similarities between these two traditions, by Bruce J. MacLennan in "The Wisdom of Hypatia" and by Pierre Hadot in "What is ancient philosophy?" and "The inner citadel") and Zen Buddhism (as expressed for instance in Kosho Uchiyama's "Opening the hand of thought", in Shohaku Okumura's "Living by Vow", in Thich Nhat Hanh's "The Other Shore", "True Love" and "The heart of the Buddha's teaching") extremely striking. Sometimes the same concepts are even described using the same exact words. But I want this to be a kernel, a short text pointing to a way of life, an inspiration towards a general direction, not a prolonged treatise, there are others who have excellent work on this and understanding this is more of a journey than an argument. So I will just move on with those two traditions as if they are already merged.
 
-
-## Book List:
+## Book List
 
 These sorted in a curriculum. This first section contain only very short, easy to read books, covering the very basic principles: (i) the realization that the life full of wealth and fame alone is not meaningful, (ii) the very basics about cultivating loving relationships that are meaningful and (iii) the very basics of getting to know yourself, building a meaningful relationship with yourself and investigating your cognitive patterns.
 
@@ -81,13 +79,19 @@ These sorted in a curriculum. This first section contain only very short, easy t
 2. True Love - Thich Nhat Hanh
 3. The power of focusing - Ann Weiser Cornell
 
-This second section is a bit more in depth and technical, but restricted to three books as well, covering the three layers: physical, emotional and mental. However, it should be mentioned that these books are not restricted to a specific domain, all of them aid in physical, emotional and mental health at the same time, they just come from different angles. The first tackles of course, physical health, the second goes a bit deeper into the impact of relationships, and the third is an introduction to philosophy as a way of life.
+This second section is a bit more in depth and technical, but restricted to three books as well, covering the three layers: physical, emotional and mental. However, it should be mentioned that these books are not restricted to a specific domain, all of them aid in physical, emotional and mental health at the same time, they just come from different angles. The first tackles of course, physical health, the second goes a bit deeper into the impact of relationships and how to cultivate them, and the third is an introduction to Buddhist philosophy as a way of life.
 
 1. Protocols: An Operating Manual for the Human Body - Andrew Huberman
 2. The Good Life: Lessons from the World's Longest Scientific Study of Happiness - Robert Waldinger
-3. What is ancient philosophy? - Pierre Hadot
+3. The Heart of the Buddha's Teaching - Thich Nhat Hanh
 
 This last section is very in depth, technical, and at points mystical. I did my best to sort them in an order which introduces concepts gradually, such that the mysticism is reduced as much as possible. However, some might still be very hard to grasp without exposure to other materials able to clarify some of the concepts, historical background, etc. If I had to point out a single resource, I would recommend John Vervaeke's work (Awakening from the Meaning Crisis, After Socrates, The God of Einstein and Spinoza, The Philosophical Silkroad, and some of the presentations and conversations he featured on his channel) to fill in these gaps and provide the neccessary background.
 
-5. 
-8. Plato - Complete works -- Maybe starting with Euthyphro, Apology, Crito, Phaedo, Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium
+1. John Vervaeke - Awakening from the Meaning Crisis
+2. What is ancient philosophy? - Pierre Hadot
+3. The inner citadel - Pierre Hadot
+4. The Wisdom of Hypatia - Bruce J MacLennan
+5. Opening the hand of thought - Kosho Uchiyama
+6. Living by vow - Shohaku Okumura
+7. Plato - Complete works -- Maybe starting with Euthyphro, Apology, Crito, Phaedo, Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium
+8. Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry - Francisco Gonzalez
