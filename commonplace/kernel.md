@@ -85,7 +85,7 @@ This second section is a bit more in depth and technical, but restricted to thre
 2. The Good Life: Lessons from the World's Longest Scientific Study of Happiness - Robert Waldinger
 3. The Heart of the Buddha's Teaching - Thich Nhat Hanh
 
-This last section is very in depth, technical, and at points mystical. I did my best to sort them in an order which introduces concepts gradually, such that the mysticism is reduced as much as possible. However, some might still be very hard to grasp without exposure to other materials able to clarify some of the concepts, historical background, etc. If I had to point out a single resource, I would recommend John Vervaeke's work (Awakening from the Meaning Crisis, After Socrates, The God of Einstein and Spinoza, The Philosophical Silkroad, and some of the presentations and conversations he featured on his channel) to fill in these gaps and provide the neccessary background.
+This last section is very in depth, technical, and at points mystical. I did my best to sort them in an order which introduces concepts gradually, such that the mysticism is reduced as much as possible.
 
 1. John Vervaeke - Awakening from the Meaning Crisis
 2. What is ancient philosophy? - Pierre Hadot
