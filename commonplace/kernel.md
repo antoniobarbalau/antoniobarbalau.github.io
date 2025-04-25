@@ -51,7 +51,7 @@
 
 ### Emotional
 
-1. Good for nothing Zazen
+1. Good for Nothing Zazen
 
    > "Zazen is the Dharma, the Dharma is Zazen." - the basis of Zen, from Kosho Uchiyama's "Opening the hand of thought"
 
@@ -67,6 +67,23 @@
 
     This could be done as a seated practice, but more importantly, all throughout the day. Whenever commuting or waiting for something, if there's nothing that needs thinking about explicitly, return to your breath, even for one breath.
 
+2. Savoring and Naving Fun
+3. Living by Vow
+4. Nurturing Actions
+
+### Mental
+
+1. Internalizing Socrates
+2. Studying Nature
+3. Journaling
+4. Therapy
+
+### Social
+
+1. Friends
+2. Family
+3. Work
+4. Nature
 
 
 ## General outline
