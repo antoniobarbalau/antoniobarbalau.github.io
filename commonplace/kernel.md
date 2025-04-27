@@ -131,7 +131,7 @@ If I were to summarize everything I wrote here, it would be a slight adaptation 
 
 ## Book List
 
-These sorted in a curriculum. This first section contain only very short, easy to read books, covering the very basic principles: (i) the realization that the life full of wealth and fame alone is not meaningful, (ii) the very basics about cultivating loving relationships that are meaningful and (iii) the very basics of getting to know yourself, building a meaningful relationship with yourself and investigating your cognitive patterns.
+These are sorted in a curriculum. This first section contain only very short, easy to read books, covering the very basic principles: (i) the realization that the life full of wealth and fame alone is not meaningful, (ii) the very basics about cultivating loving relationships that are meaningful and (iii) the very basics of getting to know yourself, building a meaningful relationship with yourself and investigating your cognitive patterns.
 
 1. The Death of Ivan Ilyich - Leo Tolstoy
 2. True Love - Thich Nhat Hanh
