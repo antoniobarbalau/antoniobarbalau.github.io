@@ -53,7 +53,7 @@
 
 1. Good for Nothing Zazen
 
-   > "Zazen is the Dharma, the Dharma is Zazen." - the basis of Zen, from Kosho Uchiyama's "Opening the hand of thought"
+   > "Zazen is the Dharma, the Dharma is Zazen." - the basis of Soto Zen, from Kosho Uchiyama's "Opening the hand of thought"
 
     Sit and breathe with no desire or expectations. Rediscover the pleasure of simply being. This is the basis of love, the ability to just take the time to sit there with yourself, the ability to just sit there with whatever comes up in our mind, with whatever emotions comes up and with whatever physical sensation comes up. Just sit there with it, with no desire or expectations, without judging, just being there with it. Just sitting there with you as you are. Accepting yourself as you are. Just sitting there with the world as it is. Accepting the world as it is.
 
@@ -69,7 +69,16 @@
 
 2. Savoring and Naving Fun
 3. Living by Vow
+
+    > After the Japanese attack on the American base at Pearl Harbor, circumstances obliged the disciple and his Master to part company – "we will certainly lose the war,” Kodo Sawaki said at their leave-taking. “Our homeland will be destroyed, our people annihilated ... and this may be the last time we see one another. Nevertheless, love all mankind regardless of race or creed.”
+    >
+    > -- Excerpt from Taisen Deshimaru's "The Voice of the Valley"
+
 4. Nurturing Actions
+
+    > The Chanyuan also says, "Put your awakened mind to work, making a constant effort to serve meals full of variety that are appropriate to the need and the occasion, and that will enable everyone to practice with their bodies and their minds with the least hindrance."
+    >
+    >  -- Excerpt from Kosho Uchiyama's "How to cook your life"
 
 ### Mental
 
