@@ -129,9 +129,9 @@ At an absolute level, there is nothing to attain. At least no goal which can be 
 
 If I were to summarize everything I wrote here, it would be a slight adaptation of Kodo Sawaki's message to Taisen Deshimaru: "Life is full of suffering, and we make it worse with our foolishness, nevertheless, love humanity with all your heart." Similar to Viktor Frankl, I believe that amid all this suffering, we can engage in acts of caring that can bring meaning to our life and make life worth living. So the thing to do when suffering occurs, is to continue our practice.
 
-## Book List
+## Book Shortlist
 
-These are sorted in a curriculum. This first section contain only very short, easy to read books, covering the very basic principles: (i) the realization that the life full of wealth and fame alone is not meaningful, (ii) the very basics about cultivating loving relationships that are meaningful and (iii) the very basics of getting to know yourself, building a meaningful relationship with yourself and investigating your cognitive patterns.
+These are sorted in a curriculum. This first section contains only very short, easy to read books, covering the very basic principles: (i) the realization that the life full of wealth and fame alone is not meaningful, (ii) the very basics about cultivating loving relationships that are meaningful and (iii) the very basics of getting to know yourself, building a meaningful relationship with yourself and investigating your cognitive patterns.
 
 1. The Death of Ivan Ilyich - Leo Tolstoy
 2. True Love - Thich Nhat Hanh
