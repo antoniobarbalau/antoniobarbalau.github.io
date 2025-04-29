@@ -60,4 +60,5 @@ Worked on an Automated Vouchering Tool project aimed at extracting data from inv
 
 ## Service
 
-### Served as a reviewer for: EEML (2025)
+### Served as a reviewer for
+ICPR(2022), EEML (2025)
