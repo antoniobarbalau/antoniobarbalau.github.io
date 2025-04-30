@@ -35,6 +35,8 @@
     >
     > -- From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" - A new translation by Robin Hard - Oxford Classics
 
+    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg).
+
 4. **Space**
 
     > "Nothing is enough to the one for whom enough is very little." - Epicurus, excerpt from Bruce J. MacLennan's "The Wisdom of Hypatia"  
@@ -51,7 +53,7 @@
 
 ### Emotional
 
-1. Good for Nothing Zazen
+1. **Good for Nothing Zazen**
 
    > "Zazen is the Dharma, the Dharma is Zazen." - the basis of Soto Zen, from Kosho Uchiyama's "Opening the hand of thought"
 
@@ -67,14 +69,22 @@
 
     This could be done as a seated practice, but more importantly, all throughout the day. Whenever commuting or waiting for something, if there's nothing that needs thinking about explicitly, return to your breath, even for one breath.
 
-2. Savoring and Naving Fun
-3. Living by Vow
+   Zazen can be complemented with: (i) kinhin, (ii) nembutsu, (iii) chanting the prajnaparamita sutra.
+
+   (i) Kinhin: Walking half a foot per breath cycle. During the inhale, you step forward, during the exhale you shift your weight from the back leg to the front leg. You are labeling your breath with your steps. Straight back, legs close together, eyes gazing down 3m in front of you.  
+   (ii) Nembutsu: Either chanting "NA MU A MI DA BU" or using it a sentence to label your breath with, mentally saying "NA MU" during the inhale and "A MI DA BU" during exhale.  
+   (iii) Chanting the Prajnaparamita Sutra: as in [./prajnaparamitasutra.md](./prajnaparamitasutra.md).
+
+   As an alternative to Zazen, I highly recommend the Prajna approach, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
+
+3. Savoring and Naving Fun
+4. Living by Vow
 
     > After the Japanese attack on the American base at Pearl Harbor, circumstances obliged the disciple and his Master to part company – "we will certainly lose the war,” Kodo Sawaki said at their leave-taking. “Our homeland will be destroyed, our people annihilated ... and this may be the last time we see one another. Nevertheless, love all mankind regardless of race or creed.”
     >
     > -- Excerpt from Taisen Deshimaru's "The Voice of the Valley"
 
-4. Nurturing Actions
+5. Nurturing Actions
 
     > The Chanyuan also says, "Put your awakened mind to work, making a constant effort to serve meals full of variety that are appropriate to the need and the occasion, and that will enable everyone to practice with their bodies and their minds with the least hindrance."
     >
