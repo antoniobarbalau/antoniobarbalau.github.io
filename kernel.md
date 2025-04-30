@@ -1,11 +1,5 @@
 # Kernel
 
-## Table of Contents
-1. [Practice](#practice)
-2. [Theory](#theory)
-3. [Book Shortlist](#book-shortlist)
-4. [Summary](#summary)
-
 > "There is no way to Nirvana, Nirvana is the way." - Thich Nhat Hanh  
 > "There is no Nirvana outside of your practice." - Shunryu Suzuki, in "Zen mind. Beginner's mind."
 
