@@ -26,7 +26,7 @@
     > 
     > -- Shohaku Okumura, in "Living by Vow"
    
-    Food cooked at home, as unprocessed as possible. At least 1.4g of protein per kg per day. At least 24g of high quality protein per meal. A healthy dose of vegetables and other sources of micronutrients. No sugar. No alcohol.
+    Food cooked at home, as unprocessed as possible. At least 1.4g of protein per kg per day. At least 24g of high quality protein per meal. A healthy dose of vegetables and other sources of micronutrients. 250ml of water per hour during the first 10 hours of wake time. 250 additional ml of water for each hour of workout. No sugar. No alcohol.
 
 3. **Exercise**
 
@@ -69,13 +69,15 @@
 
     This could be done as a seated practice, but more importantly, all throughout the day. Whenever commuting or waiting for something, if there's nothing that needs thinking about explicitly, return to your breath, even for one breath.
 
-   Zazen can be complemented with: (i) kinhin, (ii) nembutsu, (iii) chanting the prajnaparamita sutra.
+    Zazen can be complemented with: (i) kinhin, (ii) nembutsu, (iii) chanting the prajnaparamita sutra.
 
-   (i) Kinhin: Walking half a foot per breath cycle. During the inhale, you step forward, during the exhale you shift your weight from the back leg to the front leg. You are labeling your breath with your steps. Straight back, legs close together, eyes gazing down 3m in front of you.  
-   (ii) Nembutsu: Either chanting "NA MU A MI DA BU" or using it a sentence to label your breath with, mentally saying "NA MU" during the inhale and "A MI DA BU" during exhale.  
-   (iii) Chanting the Prajnaparamita Sutra: as in [./prajnaparamitasutra.md](./prajnaparamitasutra.md).
+    (i) Kinhin: Walking half a foot per breath cycle. During the inhale, you step forward, during the exhale you shift your weight from the back leg to the front leg. You are labeling your breath with your steps. Straight back, legs close together, eyes gazing down 3m in front of you.  
+    (ii) Nembutsu: Either chanting "NA MU A MI DA BU" or using it a sentence to label your breath with, mentally saying "NA MU" during the inhale and "A MI DA BU" during exhale.  
+    (iii) Chanting the Prajnaparamita Sutra: as in [./prajnaparamitasutra.md](./prajnaparamitasutra.md).
 
-   As an alternative to Zazen, I highly recommend the Prajna approach, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
+    At the Zen dojo here, a typical session consists in: 45min zazen, 10min kinhin, 35min zazen and chanting the prajnaparamita sutra (among other things). During the day whenever I have more than a few minutes of wait time I chant the sutra, and I default to nembutsu whenever I just have a few seconds of break or when it is too noisy or I am too tired to concentrate on chanting the sutra.
+
+    As an alternative to Zazen, I highly recommend the Prajna approach, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
 
 3. Savoring and Naving Fun
 4. Living by Vow
