@@ -135,9 +135,7 @@ Now let's do the same with a human being.
 
 At an absolute level, there is nothing to attain. At least no goal which can be formulated as a proposition. But does not mean that we don't have desires and that we should not avoid pain for instance. It just means that in terms of goals there are no absolute ones and we're just left off with our human goals. As per the previous paragraph, we also can't gain absolute understanding, so let's continue our discussion by focusing on local goals and local understanding.
 
-### Summary
 
-If I were to summarize everything I wrote here, it would be a slight adaptation of Kodo Sawaki's message to Taisen Deshimaru: "Life is full of suffering, and we make it worse with our foolishness, nevertheless, love humanity with all your heart." Similar to Viktor Frankl, I believe that amid all this suffering, we can engage in acts of caring that can bring meaning to our life and make life worth living. So the thing to do when suffering occurs, is to continue our practice.
 
 ## Book Shortlist
 
@@ -163,3 +161,9 @@ This last section is very in depth, technical, and at points mystical. I did my 
 6. Living by vow - Shohaku Okumura
 7. Plato - Complete works -- Maybe starting with Euthyphro, Apology, Crito, Phaedo, Meno, Lysis, Charmides, Laches, Alcibaldes, Symposium
 8. Dialectic and Dialogue: Plato's Practice of Philosophical Inquiry - Francisco Gonzalez
+
+
+
+## Summary
+
+If I were to summarize everything I wrote here, it would be an adaptation of Kodo Sawaki's message to Taisen Deshimaru: "Life is full of suffering, and we make it worse with our foolishness, nevertheless, love humanity with all your heart." Similar to Viktor Frankl, I believe that amid all this suffering, we can engage in acts of caring that can bring meaning to our life and make life worth living. So when suffering occurs, we just continue our practice.
