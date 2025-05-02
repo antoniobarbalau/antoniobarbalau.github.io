@@ -101,11 +101,17 @@
 
 ### Social
 
-1. Friends
-2. Family
-3. Work
+Spending time with:
+
+1. Family
+2. Friends
+3. Community
+
+    Getting a job which contributes to society at large and engaging in the job with the mindful intent to aid the community.
+   
 4. Nature
 
+    Taking a walk in a park, by a lake or in a forest.
 
 ## Theory
 
