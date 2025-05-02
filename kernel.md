@@ -35,7 +35,7 @@
     >
     > -- From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" - A new translation by Robin Hard - Oxford Classics
 
-    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg).
+    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 3 resistance training sessions. All 30mins. 5-10min of full body stretching each day.
 
 4. **Space**
 
@@ -96,6 +96,9 @@
 
 1. Internalizing Socrates
 2. Studying Nature
+
+    I like to group this into what I call the three half hours: half an hour exercise, half an hour zazen, half an hour reading. Though ideally they could be, these do not have to be dedicated time slots. I can chant the heart sutra or watch my breath during commute. I can practice nembutsu while cooking. I can also read during commute. I can engage in physical exercise with my family or friends. The half hour zazen accounts for 20min zazen plus a few minutes to prepare, e.g. light an incense stick and prepare my seat, and a few minutes to chant the heart sutra afterwards.
+
 3. Journaling
 4. Therapy
 
