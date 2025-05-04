@@ -1,9 +1,9 @@
-# Kernel
+# Kernel - What do I do with my life?
+
+## Practice
 
 > "There is no way to Nirvana, Nirvana is the way." - Thich Nhat Hanh  
 > "There is no Nirvana outside of your practice." - Shunryu Suzuki, in "Zen mind. Beginner's mind."
-
-## Practice
 
 ### Physical
 
@@ -86,7 +86,7 @@
     >
     > -- Excerpt from Taisen Deshimaru's "The Voice of the Valley"
 
-5. Nurturing Actions
+5. Metta, Karuna, Mudita
 
     > The Chanyuan also says, "Put your awakened mind to work, making a constant effort to serve meals full of variety that are appropriate to the need and the occasion, and that will enable everyone to practice with their bodies and their minds with the least hindrance."
     >
@@ -116,7 +116,7 @@ Spending time with:
 
     Taking a walk in a park, by a lake or in a forest.
 
-## Theory
+## Some of the theory behind the practice
 
 ### Knowledge
 
@@ -148,7 +148,7 @@ At an absolute level, there is nothing to attain. At least no goal which can be 
 
 
 
-## Book Shortlist
+## Some books to flesh out the theory and the knowledge required for practice a bit more
 
 These are sorted in a curriculum. This first section contains only very short, easy to read books, covering the very basic principles: (i) the realization that the life full of wealth and fame alone is not meaningful, (ii) the very basics about cultivating loving relationships that are meaningful and (iii) the very basics of getting to know yourself, building a meaningful relationship with yourself and investigating your cognitive patterns.
 
