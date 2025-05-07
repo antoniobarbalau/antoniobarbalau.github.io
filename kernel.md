@@ -35,7 +35,7 @@
     >
     > -- From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" - A new translation by Robin Hard - Oxford Classics
 
-    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 3 resistance training sessions. All 30mins. 5-10min of full body stretching each day.
+    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 3 resistance training sessions. All 30mins. 5-10min of full body stretching each day. 30mins of full body stretching on the day off.
 
 4. **Space**
 
@@ -65,7 +65,7 @@
 
     It may be very difficult to realize when you've drifted in thought. So, at first, you may meditate. When inhaling say in your mind "breathing in", when exhaling say "breathing out". Do not alter your breath, just follow and label it. Use any sentence you see fit. The words don't matter, what matters is using this as a mechanism to help you more easily realized when you get cought in a train of throught. When you notice you've not been labeling your breath, that's when you know you've drifted. Let the thoughts be, and simply and getly return to labeling your breath.
 
-    Alternatively, you can count your breath while trying to pay attention to the sensations in your belly. Let your thoughts be and count your breath. Whenever you realize you've skipped a number, or messed up the numbering, or forgot to count, or forgot where you were with the numbering, start again from 1 without judging yourself. If you start again, that's a good thing, it means you've noticed the drift. The goal is the practice (of returning when derailed) itself. Nothing else.
+    Alternatively, you can count your breath while trying to pay attention to the sensations in your belly. The usual counting system involves counting your in-breath as 1, your out-breath as 2, and so on until 10, and then starting again from 1. Let your thoughts be and count your breath. Whenever you realize you've skipped a number, or messed up the numbering, or forgot to count, or forgot where you were with the numbering, start again from 1 without judging yourself. If you start again, that's a good thing, it means you've noticed the drift. The goal is the practice (of returning when derailed) itself. Nothing else.
 
     This could be done as a seated practice, but more importantly, all throughout the day. Whenever commuting or waiting for something, if there's nothing that needs thinking about explicitly, return to your breath, even for one breath.
 
@@ -75,7 +75,7 @@
     (ii) Nembutsu: Either chanting "NA MU A MI DA BU" or using it a sentence to label your breath with: mentally saying "NA MU" during the inhale and "A MI DA BU" during exhale. It can roughly be translated as "I take refuge in the spirit of compassion (the Buddha which is one with everything)". 
     (iii) Chanting the Prajnaparamita Sutra: as in [./prajnaparamitasutra.md](./prajnaparamitasutra.md).
 
-    At the Zen dojo here, a typical session consists in: 45min zazen, 10min kinhin, 35min zazen and chanting the prajnaparamita sutra (among other things). During the day whenever I have more than a few minutes of wait time I chant the sutra, and I default to nembutsu whenever I just have a few seconds of break or when it is too noisy or I am too tired to concentrate on chanting the sutra.
+    At the Zen dojo here, a typical session consists in: 45min zazen, 10min kinhin, 35min zazen and chanting the prajnaparamita sutra (among other things). During the day whenever I have more than a few minutes of wait time I chant the sutra, and I default to nembutsu whenever I can not concentrate on chanting the sutra or counting or if I just want to relax.
 
     As an alternative to Zazen, I highly recommend the Prajna approach, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
 
@@ -86,7 +86,7 @@
     >
     > -- Excerpt from Taisen Deshimaru's "The Voice of the Valley"
 
-5. Metta, Karuna, Mudita
+5. Mindful and energetic involvement in nurturing actions
 
     > The Chanyuan also says, "Put your awakened mind to work, making a constant effort to serve meals full of variety that are appropriate to the need and the occasion, and that will enable everyone to practice with their bodies and their minds with the least hindrance."
     >
@@ -95,9 +95,10 @@
 ### Mental
 
 1. Internalizing Socrates
-2. Studying Nature
 
-    I like to group this into what I call the three half hours: half an hour exercise, half an hour zazen, half an hour reading. Though ideally they could be, these do not have to be dedicated time slots. I can chant the heart sutra or watch my breath during commute. I can practice nembutsu while cooking. I can also read during commute. I can engage in physical exercise with my family or friends. The half hour zazen accounts for 20min zazen plus a few minutes to prepare, e.g. light an incense stick and prepare my seat, and a few minutes to chant the heart sutra afterwards.
+    I like to group this into what I call the three half hours: half an hour exercise, half an hour zazen, half an hour reading Plato. Though ideally they could be, these do not have to be dedicated time slots. I can chant the heart sutra or watch my breath during commute. I can practice nembutsu while cooking. I can also read during commute. I can engage in physical exercise with my family or friends. The half hour zazen accounts for 20min zazen plus a few minutes to prepare, e.g. light an incense stick and prepare my seat, and a few minutes to chant the vows and the heart sutra afterwards.
+
+3. Studying and experiencing Nature
 
 3. Journaling
 4. Therapy
