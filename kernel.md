@@ -72,7 +72,7 @@
     Zazen can be complemented with: (i) kinhin, (ii) nembutsu, (iii) chanting the prajnaparamita sutra.
 
     (i) Kinhin: Walking half a foot per breath cycle. During the inhale, you step forward, during the exhale you shift your weight from the back leg to the front leg. You are labeling your breath with your steps. Straight back, legs close together, eyes gazing down 3m in front of you.  
-    (ii) Nembutsu: Either chanting "NA MU A MI DA BU" or using it a sentence to label your breath with: mentally saying "NA MU" during the inhale and "A MI DA BU" during exhale. It can roughly be translated as "I take refuge in the spirit of compassion (the Buddha which is one with everything)". 
+    (ii) Nembutsu: Either chanting "NA MU A MI DA BU" or using it a sentence to label your breath with: mentally saying "NA MU" during the inhale and "A MI DA BU" during exhale. It can roughly be interpreted as "I take refuge in the spirit of compassion" (the Buddha which is one with everything). 
     (iii) Chanting the Prajnaparamita Sutra: as in [./prajnaparamitasutra.md](./prajnaparamitasutra.md).
 
     At the Zen dojo here, a typical session consists in: 45min zazen, 10min kinhin, 35min zazen and chanting the prajnaparamita sutra (among other things). During the day whenever I have more than a few minutes of wait time I chant the sutra, and I default to nembutsu whenever I can not concentrate on chanting the sutra or counting or if I just want to relax.
