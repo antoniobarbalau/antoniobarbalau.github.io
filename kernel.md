@@ -1,4 +1,4 @@
-# Kernel - What do I do with my life?
+o# Kernel - What do I do with my life?
 
 ## Practice
 
@@ -85,6 +85,12 @@
     > After the Japanese attack on the American base at Pearl Harbor, circumstances obliged the disciple and his Master to part company – "we will certainly lose the war,” Kodo Sawaki said at their leave-taking. “Our homeland will be destroyed, our people annihilated ... and this may be the last time we see one another. Nevertheless, love all mankind regardless of race or creed.”
     >
     > -- Excerpt from Taisen Deshimaru's "The Voice of the Valley"
+
+    > Beings are numberless, I vow to free them
+    > Desires are inexhaustible, I vow to end them
+    > Dharma gates are boundless, I vow to wake to them
+    > The way of the Buddha is endless, I vow to see it through
+    > -- The four Boddhisattva vows
 
 5. Mindful and energetic involvement in nurturing actions
 
@@ -226,3 +232,7 @@ This last section is very in depth, technical, and at points mystical. I did my 
 ## Summary
 
 If I were to summarize everything I wrote here, it would be an adaptation of Kodo Sawaki's message to Taisen Deshimaru: "Life is full of suffering, and we make it worse with our foolishness, nevertheless, love humanity with all your heart." Similar to Viktor Frankl, I believe that amid all this suffering, we can engage in acts of caring that can bring meaning to our life and make life worth living. So when suffering occurs, we just continue our practice.
+
+> The way of the Buddha is endless, I vow to see it through.
+
+Just continue walking. Just walk. Just practice.
