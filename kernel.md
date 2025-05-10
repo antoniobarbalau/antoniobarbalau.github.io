@@ -238,7 +238,7 @@ This last section is very in depth, technical, and at points mystical. I did my 
 
 ## Summary
 
-If I were to summarize everything I wrote here, it would be an adaptation of Kodo Sawaki's message to Taisen Deshimaru: "Life is full of suffering, and we make it worse with our foolishness, nevertheless, love humanity with all your heart." Similar to Viktor Frankl, I believe that amid all this suffering, we can engage in acts of caring that can bring meaning to our life and make life worth living. So when suffering occurs, we just continue our practice.
+If I were to summarize everything I wrote here, it would be an adaptation of Kodo Sawaki's message to Taisen Deshimaru: "Life is full of suffering, and we make it worse with our foolishness, nevertheless, love humanity with all your heart." Similar to Viktor Frankl, I believe that amid all this suffering, we can engage in acts of caring that can bring meaning to our life and make life worth living. So when suffering occurs, we just continue our practice. As Dogen said, "Just practice."
 
 > The way of the Buddha is endless, I vow to see it through.
 
