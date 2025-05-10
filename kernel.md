@@ -86,11 +86,18 @@ o# Kernel - What do I do with my life?
     >
     > -- Excerpt from Taisen Deshimaru's "The Voice of the Valley"
 
-    > Beings are numberless, I vow to free them
-    > Desires are inexhaustible, I vow to end them
-    > Dharma gates are boundless, I vow to wake to them
-    > The way of the Buddha is endless, I vow to see it through
+    > Beings are numberless, I vow to free them.
+    > Desires are inexhaustible, I vow to end them.
+    > Dharma gates are boundless, I vow to wake to them.
+    > The way of the Buddha is endless, I vow to see it through.
     > -- The four Boddhisattva vows
+
+    First,
+    > Beings are numberless, I vow to free them.
+
+    I.e. fron suffering. This is through metta, karuna, mudita.
+
+    First, metta, i.e. loving kindness. It goes along the line of "I want to realize the moreness of X". In both senses of the word "realizing": (i) discovering that the other person is more than you thought and (ii) helping to make the potential of the other person become real (realization as achievement, as in "making a dream come true", become real). Where X is someone or something, and can include yourself. When you make a presentation, do not think "I want to make a great impression". Think "I want to help those people, and give them some information they can use." Imagine having your brother or a relative or a friend you really like, coming to you and asking "What have you learned from your experience? Please tell me so that maybe I can learn something from your experience and use it myself to make my life better.". Then think "I want to realize the moreness of that person", and respond to that question with your presentation. When you aim to impress you are anxious, when you aim to help and to tell others what you found out so that they may benefit from it, you feel warm inside. 
 
 5. Mindful and energetic involvement in nurturing actions
 
