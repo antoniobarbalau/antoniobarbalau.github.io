@@ -98,10 +98,13 @@
 
     I like to group this into what I call the three half hours: half an hour exercise, half an hour zazen, half an hour reading Plato. Though ideally they could be, these do not have to be dedicated time slots. I can chant the heart sutra or watch my breath during commute. I can practice nembutsu while cooking. I can also read during commute. I can engage in physical exercise with my family or friends. The half hour zazen accounts for 20min zazen plus a few minutes to prepare, e.g. light an incense stick and prepare my seat, and a few minutes to chant the vows and the heart sutra afterwards.
 
-3. Studying and experiencing Nature
+2. Studying and experiencing Nature
 
-3. Journaling
-4. Therapy
+3. **Journaling**
+
+    I am currently engaged in multiple forms of journaling. First of all, I am engaged in writing and continuously updating this commonplace. This is a form of hypomnemata, of continuously repeating, reinvestigating and refining my core principles.
+
+5. Therapy
 
 ### Social
 
@@ -146,6 +149,50 @@ Now let's do the same with a human being.
 "The Dao named Dao is not the true Dao", the Nature of all things that you can name, the Nature of all things about which you can say something, is not the true Nature of all things. Nature, which binds our universe into a coherent whole, is that which affords the subject-object interaction, it is Nature which affords observation and understanding. We can never look at Nature because we look through Nature. It is Nature which binds into a coherent whole both the subject and the object in order to make observations possible and inteligibility exist. Because we understand the universe through and by means of Nature, we can not look at it, we only look through it and by means of it. In this sense I like John Vervaeke's definition of the Good as the promise that the map matches the terrain. That is, the promise that the subjective and the objective are deeply bound together, that Nature affords intelligibility. Because our understanding presupposes Nature, we can never step aside and look at nature rather than through it. In this sense, I love the Buddhist idea that you are already saved by the Buddha (that which is one with everything, a metaphor for Nature in this context, not a reference to the historical Buddha), because in some sense, it is true that you are already completely enmeshed within the Nature of all things, everything you do, you do through Nature and by means of it. Your very being is completely by Nature and living within the Nature of all things, so there is nothing left to do. "With nothing to attain, the boddhisattva depends on prajna-paramita". There is nothing to atain, we just sit Zazen.
 
 At an absolute level, there is nothing to attain. At least no goal which can be formulated as a proposition. But does not mean that we don't have desires and that we should not avoid pain for instance. It just means that in terms of goals there are no absolute ones and we're just left off with our human goals. As per the previous paragraph, we also can't gain absolute understanding, so let's continue our discussion by focusing on local goals and local understanding.
+
+
+### Goals
+
+Maybe we don't need to understand everything, maybe we just need to understand how to act in order to fulfil our goal. But what goal? Minimizing pain would be a straight answer. However, if I really just wanted to avoid pain I would sit in my room all day. I don't do that, and nobody I know does that. I also like to practice sports and eat at restaurants. I also like to experience pleasure. So the goal might be to minimize pain while maximizing pleasure. However, there is no straightforward way to do that. Again, if I want to experience the pleasure of reaching the top of a mountain, I have to undergo significant physical hardship and pain while exposing myself to the risk of facing a bear in the wild. If I want to avoid future pain by undergoing a medical treatment, consisting in a surgery, going through recovery and following a restricted diet for a while, that certainly isn't pleasureable. In some circumstances I can optimize both goals, but often one of the goals can only be optimized at the expense of the other. And I've found no clear way to balance them as of yet.
+
+And we've not yet considered the desire to survive and reproduce. That comes in conflict both with minimizing pain and with maximizing pleasure. The clearest example I can think of is having a child. Raising a child, as far as I've been informed, is far from pleasurable and it can be very physically and mentally demanding. You don't get to sleep well, you don't get to eat well, you're sick all the time, your finances take a hit, vacations are not an option anymore and there's a lot of added responsibility. Aside from optimizing pain, pleasure and survival there's also the need to live a meaningful life. You may want to stand up for what is right in the face of adversity, but that may come at the cost of reduced pleasure, increased pain and a reduced chance of survival. Pursuing any vocation seriously requires significant effort and can be physically and mentally demanding while stripping away the time you could dedicate to your family and to pleasureable activities.
+
+As far as I understand myself, I don't have a clear goal. Sometimes I choose to undergo pain in order to experience pleasure. Sometime I sacrifice pleasure in order to avoid pain. Sometimes I voluntarily give up pleasure and undergo pain in order to survive. Sometimes I take risks that threaten my survival in order to experience pleasure or to avoid pain. Sometimes I engage in meaningful pursuits at the expense of all other goals. Sometimes I give up on meaningful pursuits so that I can focus on surviving and avoiding pain. So, I can never understand Nature, I can never understand everything. I though I could understand how to reach my goal, but I can't define my goal, I have multiple conflicting goals.
+
+
+### Transjectivity
+
+Let's suppose for a moment that I don't have multiple conflicting goals. Let's suppose I have a single goal and let's try to optimize that. For simple goals, such as making a cup of coffee, a procedure and easily be optimized. However, for more encompassing goals, such as being a loving individual, there is no procedure that one can follow.
+
+1. The way you manifest your love towards your wife is different from the way you should manifest your love for your child. Both of these, in turn are different from the way you would manifest love towards a coworker; you would not kiss your coworker goodnight. Love also manifests in completely different ways towards your parents, people on the street, brothers and sisters, other relatives, the cashier you interact with, money, fame, your pet, some work of art, etc.
+ 
+2. Within the context of a single individual, sometimes you have to be accepting, to let the other manifest the way it finds suitable, e.g. let your friend pursue a career he would love but you'd not consider optimal. At other times however, you have to push against the other, in order to prevent him from damaging himself, e.g. prevent your friend from doing drugs.
+
+3. Even if you consider the very restricted case, of tackling a single specific context with regards to a single specific individual, e.g. eating dinner with your wife, the answer is still not a procedural one. You can't do the same thing forever. Sometimes you may tell jokes during the dinner, but she will soon grow tired of your jokes, hence, at times, you might want to discuss other things, or propose to eat out, or look at old pictures together and discuss them while eating.
+
+It is impossible to optimize such a procedure, because for a given subject (in this case, you), the procedure has to at least be optimized to encompass all objects with which the subject interacts, across all circumstances and across all moments in time. It is impossible to even list all those scenarios, let alone optimize for all of them. And this is if you want to pursue optimizing love for a single subject (in this case, for you), if you want to optimize a form of manifesting love which works for all subjects, that adds a whole other degree of complexity. Because of love's transjectivity, it can never be fully articulated or understood. Love is just an example, there is a plethora of similar goals. To list a handful: to be a good cook, to be a good musician, to be a good programmer, to be a good mathematician, to be a good writer.
+
+So, I can never understand Nature, I can never understand everything. I though I could understand how to reach my goal, but I can't define my goal, I have multiple conflicting goals. And on top of that, now I've found out that even if I did chose to focus on a single goal such as being a loving individual, there's no way in which I could every properly optimize it anyway.
+
+
+### Relevance Realization
+
+even if you only chose a single subject a single object a single situation at a single point in time, there's the issue that realizing what is relevant and that cannot be computed, so you're always biased and susceptible to self destructive self-deceptive behavior.
+
+
+### Computational Irreducibility
+
+Even if you did know all the relevant factors, there's computational irreducibility.
+
+
+### Conclusion on knowledge
+
+We're just finite computational machines making miss-informed short-sighted poorly-optimized decisions towards ambiguous goals which are in conflict both internally and externally.
+
+
+### So what is there to be done?
+
+Instead of focusing on making the right decision and achieving and having things (e.g. fame, money, titles)
 
 
 
