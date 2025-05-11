@@ -1,4 +1,4 @@
-o# Kernel - What do I do with my life?
+# Kernel - What do I do with my life?
 
 ## Practice
 
@@ -79,8 +79,8 @@ o# Kernel - What do I do with my life?
 
     As an alternative to Zazen, I highly recommend the Prajna approach, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
 
-3. Savoring and Naving Fun
-4. Living by Vow
+2. Savoring and Naving Fun
+3. **Living by Vow**
 
     > After the Japanese attack on the American base at Pearl Harbor, circumstances obliged the disciple and his Master to part company – "we will certainly lose the war,” Kodo Sawaki said at their leave-taking. “Our homeland will be destroyed, our people annihilated ... and this may be the last time we see one another. Nevertheless, love all mankind regardless of race or creed.”
     >
@@ -99,7 +99,9 @@ o# Kernel - What do I do with my life?
 
     First, metta, i.e. loving kindness. It goes along the line of "I want to realize the moreness of X". In both senses of the word "realizing": (i) discovering that the other person is more than you thought and (ii) helping to make the potential of the other person become real (realization as achievement, as in "making a dream come true", become real). Where X is someone or something, and can include yourself. When you make a presentation, do not think "I want to make a great impression". Think "I want to help those people, and give them some information they can use." Imagine having your brother or a relative or a friend you really like, coming to you and asking "What have you learned from your experience? Please tell me so that maybe I can learn something from your experience and use it myself to make my life better." Then think "I want to realize the moreness of that person", and respond to that question with your presentation. When you aim to impress you are anxious, when you aim to help and to tell others what you found out so that they may benefit from it, you feel warm inside. When you aim to impress the focus is on you, when you aim to help the focus is on the others.
 
-5. Mindful and energetic involvement in nurturing actions
+   Second, karuna, i.e. compassion. Let's say you talk to someone and they become angry and don't listen to reason. Instead of shouting back, realize that the person is suffering. Maybe no one listened to him and he has a lot of repressed rage. Help him vent out. Ask him to tell you more. Accept the fact that he suffered without agreeing to or encouraging his views. "I understand that it was a miserable experience for you. Tell me more about it." Don't encourage their views by saying "Yes, they are total jerks and they should suffer back." Just go with "I understand you are feeling." Whenever they try to convince you of something, gently move the discussion back to how they are feeling. Listen to their feelings, and accept the feelings as they are. If their views are not challenged or encouraged, if the emotion is just vented out and accepted, the person will eventually calm down. Then, switch the subject, make a tea. Trying to convince a raging person of something, is uselss. This path will make the person more enraged and it will lead to him feeling even more misunderstood and neglected, and it will leave you distressed and enraged as well. There is no way to rationally change his mind, but there is something you can do, you help that person vent out, you can make him feel better inside. You've helped him out of compassion. Again, the focus is not on you, "I want to win this argument", it is on the other person "I understand that this person is suffering, and I can alleviate his suffering a bit by helping him vent out and compassionately listening to him. I can provide him company." This leaves you with warmth inside, and it provides the other person a clearer mind, free of the rage which was now vented, and a sense of belonging and being accepted and understood. You touch the other person with the joy of being listened to.
+
+5. **Mindful and energetic involvement in nurturing actions**
 
     > The Chanyuan also says, "Put your awakened mind to work, making a constant effort to serve meals full of variety that are appropriate to the need and the occasion, and that will enable everyone to practice with their bodies and their minds with the least hindrance."
     >
