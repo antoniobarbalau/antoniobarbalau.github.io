@@ -11,7 +11,7 @@
    
     > "The day starts with evening Zazen and sleep is part of 24h practice." - Kosho Uchiyama
 
-    At least eight hours. Keeping a steady schedule. No light or sound, to the best degree possible. Being careful with liquid intake before going to sleep in order to prevent wake-ups during the night. Relaxing routine before bed: tea and a book. If I can't sleep I just read Zen books until I get very tired. I'm using an e-reader with very warm and very dim backlight, and read with lights shut off, in order to get into the sleepy mood.
+    At least eight hours. Keeping a steady schedule. No light or sound, to the best degree possible. Being careful with liquid intake before going to sleep in order to prevent wake-ups during the night. Relaxing routine before bed: stretching, tea and a relaxing book. If I can't sleep I just read Zen books until I get very tired. I'm using an e-reader with very warm and very dim backlight, and read with lights shut off, in order to get into the sleepy mood.
 
 
 2. **Diet**
