@@ -35,7 +35,7 @@
     >
     > -- From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" - A new translation by Robin Hard - Oxford Classics
 
-    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 3 resistance training sessions. All 30mins. 5-10min of full body stretching each day. 30mins of full body stretching on the day off.
+    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 4 resistance training sessions centered around compund movements: push-ups, pull-ups, squats and core (this should have been deadlift but I have hernia 😂). All 20mins.
 
 4. **Space**
 
@@ -79,7 +79,12 @@
 
     As an alternative to Zazen, I highly recommend the Prajna approach, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
 
-2. Savoring and Naving Fun
+2. **Savoring and Having Fun**
+
+    > "Send me a pot of cheese, so that I may have a feast when I care to." - Epicurus
+
+    My bedtime routine involves 5-10mins of full body stretching, followed by warm calming tea and reading a Zen book.
+
 3. **Living by Vow**
 
     > After the Japanese attack on the American base at Pearl Harbor, circumstances obliged the disciple and his Master to part company – "we will certainly lose the war,” Kodo Sawaki said at their leave-taking. “Our homeland will be destroyed, our people annihilated ... and this may be the last time we see one another. Nevertheless, love all mankind regardless of race or creed.”
@@ -111,7 +116,8 @@
 
 1. Internalizing Socrates
 
-    I like to group this into what I call the three half hours: half an hour exercise, half an hour zazen, half an hour reading Plato. Though ideally they could be, these do not have to be dedicated time slots. I can chant the heart sutra or watch my breath during commute. I can practice nembutsu while cooking. I can also read during commute. I can engage in physical exercise with my family or friends. The half hour zazen accounts for 20min zazen plus a few minutes to prepare, e.g. light an incense stick and prepare my seat, and a few minutes to chant the vows and the heart sutra afterwards.
+    I like to group this into what I call **the core hour: 20min sport, 20min zazen, 20min Plato**. I usually do them in this order, spreaded throughout the day. Sport in the morning, zazen in the middle of the day, Plato in the evening.
+
 
 2. Studying and experiencing Nature
 
