@@ -11,7 +11,7 @@
    
     > "The day starts with evening Zazen and sleep is part of 24h practice." - Kosho Uchiyama
 
-    At least eight hours. Keeping a steady schedule. No light or sound, to the best degree possible. Being careful with liquid intake before going to sleep in order to prevent wake-ups during the night. Relaxing routine before bed: stretching, tea and a relaxing book. If I can't sleep I just read Zen books until I get very tired. I'm using an e-reader with very warm and very dim backlight, and read with lights shut off, in order to get into the sleepy mood.
+    At least eight hours. Keeping a steady schedule. No light or sound, to the best degree possible. Being careful with liquid intake before going to sleep in order to prevent wake-ups during the night. Relaxing routine before bed: stretching, tea and a relaxing book. If I can't sleep I just read books until I get very tired. I'm using an e-reader with very warm and very dim backlight, and read with lights shut off, in order to get into the sleepy mood.
 
 
 2. **Diet**
@@ -35,7 +35,7 @@
     >
     > -- From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" - A new translation by Robin Hard - Oxford Classics
 
-    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 4 resistance training sessions centered around compund movements: push-ups, pull-ups, squats and core (this should have been deadlift but I have hernia 😂). All 20mins.
+    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 4 resistance training sessions centered around compund movements: push-ups, pull-ups/chin-ups, squats and core strength. All 20mins.
 
 4. **Space**
 
@@ -83,7 +83,7 @@
 
     > "Send me a pot of cheese, so that I may have a feast when I care to." - Epicurus
 
-    My bedtime routine involves 5-10mins of full body stretching, followed by warm calming tea and reading a Zen book.
+    My bedtime routine involves 5-10mins of full body stretching, followed by warm calming tea and reading a book.
 
 3. **Metta, Karuna, Mudita**
 
