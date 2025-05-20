@@ -2,14 +2,14 @@
 
 ## Practice
 
-> "There is no way to Nirvana, Nirvana is the way." - Thich Nhat Hanh  
-> "There is no Nirvana outside of your practice." - Shunryu Suzuki, in "Zen mind. Beginner's mind."
+> "There is no way to Nirvana, Nirvana is the way." — Thich Nhat Hanh  
+> "There is no Nirvana outside of your practice." — Shunryu Suzuki, in "Zen mind. Beginner's mind."
 
 ### Physical
 
 1. **Sleep**
    
-    > "The day starts with evening Zazen and sleep is part of 24h practice." - Kosho Uchiyama
+    > "The day starts with evening Zazen and sleep is part of 24h practice." — Kosho Uchiyama
 
     At least eight hours. Keeping a steady schedule. No light or sound, to the best degree possible. Being careful with liquid intake before going to sleep in order to prevent wake-ups during the night. Relaxing routine before bed: stretching, tea and a relaxing book. If I can't sleep I just read books until I get very tired. I'm using an e-reader with very warm and very dim backlight, and read with lights shut off, in order to get into the sleepy mood.
 
@@ -24,7 +24,7 @@
     > 
     > "We chant this verse to remind ourselves that eating is a spiritual practice, not just a way to fill our stomachs and satisfy our desires. We acknowledge that we eat to support our life, but also affirm the important spiritual meaning of the meal. We eat to keep this body in good shape and also to renew our bodhi-mind, our aspirations to practice according to the Buddha's teaching."
     > 
-    > -- Shohaku Okumura, in "Living by Vow"
+    > — Shohaku Okumura, in "Living by Vow"
    
     Food cooked at home, as unprocessed as possible. At least 1.4g of protein per kg per day. At least 24g of high quality protein per meal. A healthy dose of vegetables and other sources of micronutrients. 250ml of water per hour during the first 10 hours of wake time. 250 additional ml of water for each hour of workout. No sugar. No alcohol.
 
@@ -33,17 +33,17 @@
     > Crates was in the habit of running a certain distance each day, and would say, "I'm running for the sake of my spleen, for the sake of my liver, for the sake of my stomach."  
     > He was ugly to behold, and when he carried out his exercises, people would laugh at him. As he raised his arms, he used to say to himself, "Courage now, Crates, this is for the good of your eyes and of your whole body; and there will come a day when you will see these people, who are now laughing at you, become shrivelled up by illness, and then they will account you happy and reproach themselves for their idleness!"
     >
-    > -- From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" - A new translation by Robin Hard - Oxford Classics
+    > — From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" – A new translation by Robin Hard – Oxford Classics
 
     As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 4 resistance training sessions centered around compund movements: push-ups, pull-ups/chin-ups, squats and core strength. All 20mins.
 
 4. **Space**
 
-    > "Nothing is enough to the one for whom enough is very little." - Epicurus, excerpt from Bruce J. MacLennan's "The Wisdom of Hypatia"  
-    > "It is not the man who has little, but the man who craves more, that is poor." - Seneca  
-    > "For the wise man the sufficient is enough" - Epicurus, excerpt from Bruce J. MacLennan's "The Wisdom of Hypatia"
+    > "Nothing is enough to the one for whom enough is very little." — Epicurus, excerpt from Bruce J. MacLennan's "The Wisdom of Hypatia"  
+    > "It is not the man who has little, but the man who craves more, that is poor." — Seneca  
+    > "For the wise man the sufficient is enough" — Epicurus, excerpt from Bruce J. MacLennan's "The Wisdom of Hypatia"
 
-    Creating physical, emotional and mental space by focusing on natural needs, engaging in unnecessary pursuits in moderation, and avoiding or very rarely pursuing unnatural desires. Natural desires, needed for healthy life, have a natural limit. There only so much food you need to eat before you don’t feel hungry anymore. There’s only so much water you need to drink before you don’t feel thirsty anymore. There’s only so much heat you need before you don’t feel cold anymore. There’s only so much a shelther has to provide in order to shelter you. I find it blissful to engage in noticing the peacefulness coming from the lack of hunger and the lack of thirst for example.  
+    Creating physical, emotional and mental space by focusing on natural needs, engaging in unnecessary pursuits in moderation, and avoiding or very rarely pursuing unnatural desires. Natural desires, needed for healthy life, have a natural limit. There only so much food you need to eat before you don’t feel hungry anymore. There’s only so much water you need to drink before you don’t feel thirsty anymore. There’s only so much heat you need before you don’t feel cold anymore. There’s only so much a shelther has to provide in order to shelter you. Take time to notice the peacefulness coming from the lack of hunger and the lack of thirst for example.  
 
     But natural desires can be pursued in unncessary ways. You can drink coke to clench your thirst. You can go out and eat highly processed foods in order to end your hunger. However, these types of actions can have undesired effects on your physical and mental wellbeing.  
 
@@ -55,7 +55,7 @@
 
 1. **Good for Nothing Zazen**
 
-   > "Zazen is the Dharma, the Dharma is Zazen." - the basis of Soto Zen, from Kosho Uchiyama's "Opening the hand of thought"
+   > "Zazen is the Dharma, the Dharma is Zazen." — the basis of Soto Zen, from Kosho Uchiyama's "Opening the hand of thought"
 
     Sit and breathe with no desire or expectations. Rediscover the pleasure of simply being. This is the basis of love, the ability to just take the time to sit there with yourself, the ability to just sit there with whatever comes up in our mind, with whatever emotions comes up and with whatever physical sensation comes up. Just sit there with it, with no desire or expectations, without judging, just being there with it. Just sitting there with you as you are. Accepting yourself as you are. Just sitting there with the world as it is. Accepting the world as it is.
 
@@ -81,17 +81,17 @@
 
 2. **Savoring and Having Fun**
 
-    > "Send me a pot of cheese, so that I may have a feast when I care to." - Epicurus
+    > "Send me a pot of cheese, so that I may have a feast when I care to." — Epicurus
 
     My bedtime routine involves 5-10mins of full body stretching, followed by warm calming tea and reading a book.
 
 3. **Metta, Karuna, Mudita**
 
-    > After the Japanese attack on the American base at Pearl Harbor, circumstances obliged the disciple and his Master to part company – "we will certainly lose the war,” Kodo Sawaki said at their leave-taking. “Our homeland will be destroyed, our people annihilated ... and this may be the last time we see one another. Nevertheless, love all mankind regardless of race or creed.”
+    > After the Japanese attack on the American base at Pearl Harbor, circumstances obliged the disciple and his master to part company. "We will certainly lose the war,” Kodo Sawaki said at their leave-taking. “Our homeland will be destroyed, our people annihilated ... and this may be the last time we see one another. Nevertheless, love all mankind regardless of race or creed.”
     >
-    > -- Excerpt from Taisen Deshimaru's "The Voice of the Valley"
+    > — Excerpt from Taisen Deshimaru's "The Voice of the Valley"
 
-    "Beings are numberless, I vow to free them." Loving kindness, compassion, sympathetic joy.
+    "Beings are numberless, I vow to free them." I.e. from suffering, through loving kindness, compassion, sympathetic joy.
 
     First, metta, i.e. loving kindness. It goes along the line of "I want to realize the moreness of X". In both senses of the word "realizing": (i) discovering that the other person is more than you thought and (ii) helping to make the potential of the other person become real (realization as achievement, as in "making a dream come true", become real). Where X is someone or something, and can include yourself. When you make a presentation, do not think "I want to make a great impression". Think "I want to help those people, and give them some information they can use." Imagine having your brother or a relative or a friend you really like, coming to you and asking "What have you learned from your experience? Please tell me so that maybe I can learn something from your experience and use it myself to make my life better." Then think "I want to realize the moreness of that person", and respond to that question with your presentation. When you aim to impress you are anxious, when you aim to help and to tell others what you found out so that they may benefit from it, you feel warm inside. When you aim to impress the focus is on you, when you aim to help the focus is on the others.
 
@@ -101,11 +101,11 @@
 
     > The Chanyuan also says, "Put your awakened mind to work, making a constant effort to serve meals full of variety that are appropriate to the need and the occasion, and that will enable everyone to practice with their bodies and their minds with the least hindrance."
     >
-    >  -- Excerpt from Kosho Uchiyama's "How to cook your life"
+    >  — Excerpt from Kosho Uchiyama's "How to cook your life"
 
 ### Mental
 
-1. Internalizing Socrates
+1. **Internalizing Socrates**
 
     I like to group this into what I call **the core hour: 20min sport, 20min zazen, 20min Plato**. I usually do them in this order, spreaded throughout the day. Sport in the morning, zazen in the middle of the day, Plato in the evening.
 
