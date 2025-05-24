@@ -15,7 +15,7 @@
 
     Natural desires can be pursued in unnecessary ways. You can drink soda to quench your thirst. You can eat highly processed foods to end your hunger. However, these actions often have unwanted effects on your physical and mental wellbeing, and they can create new cravings.
 
-      Unnatural desires—those not needed for survival, such as the desire for luxury, fame, excessive money, exotic travel, or endless social media scrolling—have no natural limit. There's always thirst for more money. There's always a need to acquire more fame, to impress more people, to gain ever more praise and maintain your reputation. There's always a craving to scroll more. Engaging in unnatural pursuits means choosing to remain forever thirsty
+      Unnatural desires—those not needed for survival, such as the desire for luxury, fame, excessive money, exotic travel, or endless social media scrolling—have no natural limit. There's always thirst for more money. There's always a need to acquire more fame, to impress more people, to gain ever more praise and maintain your reputation. There's always a craving to scroll more. Engaging in unnatural pursuits means choosing to remain forever thirsty.
 
     My house does not have to be a palace, it just has to be safe, clean and welcoming. The way I dress does not have to be fancy, it just has to be trim. I don’t need fancy foods and drinks, I just need something nutritious that’s a bit tasty. I don’t need to scroll through social media for 3 hours a day, I just need meet with friends once a week. I don’t need to scroll through youtube and random news for 3 hours day in order to get information, I just need to check a few sources of highly curated information once a week or two.
 
