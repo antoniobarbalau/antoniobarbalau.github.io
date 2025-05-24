@@ -30,7 +30,6 @@
 
 3. **Exercise**
 
-    > Crates was in the habit of running a certain distance each day, and would say, "I'm running for the sake of my spleen, for the sake of my liver, for the sake of my stomach."  
     > He was ugly to behold, and when he carried out his exercises, people would laugh at him. As he raised his arms, he used to say to himself, "Courage now, Crates, this is for the good of your eyes and of your whole body; and there will come a day when you will see these people, who are now laughing at you, become shrivelled up by illness, and then they will account you happy and reproach themselves for their idleness!"
     >
     > — From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" – A new translation by Robin Hard – Oxford Classics
@@ -39,9 +38,7 @@
 
 4. **Space**
 
-    > "Nothing is enough to the one for whom enough is very little." — Epicurus, excerpt from Bruce J. MacLennan's "The Wisdom of Hypatia"  
     > "It is not the man who has little, but the man who craves more, that is poor." — Seneca  
-    > "For the wise man the sufficient is enough" — Epicurus, excerpt from Bruce J. MacLennan's "The Wisdom of Hypatia"
 
     Creating physical, emotional and mental space by focusing on natural needs, engaging in unnecessary pursuits in moderation, and avoiding or very rarely pursuing unnatural desires. Natural desires, needed for healthy life, have a natural limit. There only so much food you need to eat before you don’t feel hungry anymore. There’s only so much water you need to drink before you don’t feel thirsty anymore. There’s only so much heat you need before you don’t feel cold anymore. There’s only so much a shelther has to provide in order to shelter you. Take time to notice the peacefulness coming from the lack of hunger and the lack of thirst for example.  
 
@@ -53,31 +50,21 @@
 
 ### Emotional
 
-1. **Good for Nothing Zazen**
+1. **Zazen**
 
    > "Zazen is the Dharma, the Dharma is Zazen." — the basis of Soto Zen, from Kosho Uchiyama's "Opening the hand of thought"
 
-    Sit and breathe with no desire or expectations. Rediscover the pleasure of simply being. This is the basis of love, the ability to just take the time to sit there with yourself, the ability to just sit there with whatever comes up in our mind, with whatever emotions comes up and with whatever physical sensation comes up. Just sit there with it, with no desire or expectations, without judging, just being there with it. Just sitting there with you as you are. Accepting yourself as you are. Just sitting there with the world as it is. Accepting the world as it is.
+    The practice of simply being: just sitting, just breathing, just walking;   without desire or expectation.
 
-    (i) Sit, ideally, facing a wall, (ii) with eyes open looking a short distance ahead (but don't force it), (iii) in a position in which you won't fall asleep while (iv) belly breathing. Ideally for at least 20 mins.
+    (i) Sit, ideally, facing a wall, (ii) with open eyes, looking a short distance ahead, (iii) in a position in which you won't fall asleep while (iv) belly breathing. Ideally, for at least 20 mins.
 
-    Whenever a thought captures your attention, neither push it away, nor entertain it. The desire to have no desire is still a desire. The expectation to have no throughts is still an expectation. When derailed, simply return to just sitting with your bones and muscles, letting the tought continue in the background and do its thing. A good analogy is the sky which lets the clouds pass without interfering, without identifying with any of them, without attaching to any of them or pushing them away.
+    Whenever a thought captures your attention, you should neither push it away, nor entertain it. The desire to have no desire is still a desire. The expectation to have no thoughts in your mind is still an expectation. When derailed, simply return to just sitting with your bones and muscles, letting the tought pass along. A good analogy is the sky which lets the clouds pass by without interfering, without identifying with any of them, without attaching to any of them and without pushing any of them away.
 
-    It may be very difficult to realize when you've drifted in thought. So, at first, you may meditate. When inhaling say in your mind "breathing in", when exhaling say "breathing out". Do not alter your breath, just follow and label it. Use any sentence you see fit. The words don't matter, what matters is using this as a mechanism to help you more easily realized when you get cought in a train of throught. When you notice you've not been labeling your breath, that's when you know you've drifted. Let the thoughts be, and simply and getly return to labeling your breath.
+    As it may be very difficult to realize when you have drifted in thought, you may count your breath. Count your inhale as 1, your exhale as 2, and so on until 10, then start again. Let your thoughts, emotions and physical sensations just be, and continue to count your breath. When you overcount or lose count, simply start again from 1 — this is great, it means you've noticed a mental drift. The goal is the practice (of returning to just breathing) itself. Nothing more.
 
-    Alternatively, you can count your breath while trying to pay attention to the sensations in your belly. The usual counting system involves counting your in-breath as 1, your out-breath as 2, and so on until 10, and then starting again from 1. Let your thoughts be and count your breath. Whenever you realize you've skipped a number, or messed up the numbering, or forgot to count, or forgot where you were with the numbering, start again from 1 without judging yourself. If you start again, that's a good thing, it means you've noticed the drift. The goal is the practice (of returning when derailed) itself. Nothing else.
+    Whenever you have time throughout the day, return to your breath, even for one breath. Or return to just walking if you are walking. Count your steps the same way you would count your breath.
 
-    This could be done as a seated practice, but more importantly, all throughout the day. Whenever commuting or waiting for something, if there's nothing that needs thinking about explicitly, return to your breath, even for one breath.
-
-    Zazen can be complemented with: (i) kinhin, (ii) nembutsu, (iii) chanting the prajnaparamita sutra.
-
-    (i) Kinhin: Walking half a foot per breath cycle. During the inhale, you step forward, during the exhale you shift your weight from the back leg to the front leg. You are labeling your breath with your steps. Straight back, legs close together, eyes gazing down 3m in front of you.  
-    (ii) Nembutsu: Either chanting "NA MU A MI DA BU" or using it a sentence to label your breath with: mentally saying "NA MU" during the inhale and "A MI DA BU" during exhale. It can roughly be interpreted as "I take refuge in the spirit of compassion" (the Buddha which is one with everything). 
-    (iii) Chanting the Prajnaparamita Sutra: as in [./prajnaparamitasutra.md](./prajnaparamitasutra.md).
-
-    At the Zen dojo here, a typical session consists in: 45min zazen, 10min kinhin, 35min zazen and chanting the prajnaparamita sutra (among other things). During the day whenever I have more than a few minutes of wait time I chant the sutra, and I default to nembutsu whenever I can not concentrate on chanting the sutra or counting or if I just want to relax.
-
-    As an alternative to Zazen, I highly recommend the Prajna approach, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
+    As an alternative to Zazen, I highly recommend Prajna, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
 
 2. **Savoring and Having Fun**
 
