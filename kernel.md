@@ -46,7 +46,7 @@
     >
     > — From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" – A new translation by Robin Hard – Oxford Classics
 
-    As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 4 resistance training sessions centered around compund movements: push-ups, pull-ups/chin-ups, squats and core strength. All 20mins.
+    Following the approach outlined in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). The current implementation involves 2 zone 2 cardio sessions, 1 HIIT cardio session, all on elliptical bike. Aside from the cardio sessions I engage in 4 resistance training sessions centered around compound movements: push-ups, pull-ups/chin-ups, squats, and core strengthening. All sessions are 20 minutes.
 
 
 ### Emotional
@@ -55,15 +55,15 @@
 
    > "Zazen is the Dharma, the Dharma is Zazen." — the basis of Soto Zen, from Kosho Uchiyama's "Opening the hand of thought"
 
-    The practice of simply being: just sitting, just breathing, just walking;   without desire or expectation.
+    The practice of simply being: just sitting, just breathing, just walking—without desire or expectation.
 
-    (i) Sit, ideally, facing a wall, (ii) with open eyes, looking a short distance ahead, (iii) in a position in which you won't fall asleep while (iv) belly breathing. Ideally, for at least 20 mins.
+    (i) Sit, ideally facing a wall, (ii) with open eyes, looking a short distance ahead, (iii) in a position where you won't fall asleep, while (iv) belly breathing. Ideally for at least 20 minutes.
 
-    Whenever a thought captures your attention, you should neither push it away, nor entertain it. The desire to have no desire is still a desire. The expectation to have no thoughts in your mind is still an expectation. When derailed, simply return to just sitting with your bones and muscles, letting the tought pass along. A good analogy is the sky which lets the clouds pass by without interfering, without identifying with any of them, without attaching to any of them and without pushing any of them away.
+    Whenever a thought captures your attention, neither push it away nor entertain it. The desire to have no desire is still a desire. The expectation to have no thoughts in your mind is still an expectation. When derailed, simply return to just sitting with your bones and muscles, letting the thought pass along. A good analogy is the sky, which lets clouds pass by without interfering, without identifying with any of them, without attaching to any of them, and without pushing any of them away.
 
-    As it may be very difficult to realize when you have drifted in thought, you may count your breath. Count your inhale as 1, your exhale as 2, and so on until 10, then start again. Let your thoughts, emotions and physical sensations just be, and continue to count your breath. When you overcount or lose count, simply start again from 1 — this is great, it means you've noticed a mental drift. The goal is the practice (of returning to just breathing) itself. Nothing more.
+    As it may be very difficult to realize when you have drifted into thought, you may count your breath. While focusing on your belly, count your inhale as 1, your exhale as 2, and so on until 10, then start again. Let your thoughts, emotions, and physical sensations just be, and continue to count your breath. When you overcount or lose count, simply start again from 1—this is great, it means you've noticed a mental drift. The goal is the practice of returning to just breathing itself. Nothing more.
 
-    Whenever you have time throughout the day, return to your breath, even for one breath. Or return to just walking if you are walking. Count your steps the same way you would count your breath.
+    Whenever you have time throughout the day, return to your breath, even for one breath. Or return to just walking if you are walking. Count your steps the same way you would count your breath, while focusing on your feet.
 
     As an alternative to Zazen, I highly recommend Prajna, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
 
