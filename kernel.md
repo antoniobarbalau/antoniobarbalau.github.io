@@ -1,4 +1,4 @@
-# Kernel - What do I do with my life?
+# Kernel — What do I do with my life?
 
 ## Practice
 
