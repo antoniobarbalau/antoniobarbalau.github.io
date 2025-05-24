@@ -73,13 +73,13 @@
 
     My bedtime routine involves 5-10mins of full body stretching, followed by warm calming tea and reading a book.
 
-3. **Metta, Karuna, Mudita**
+2. **Metta**
 
     > After the Japanese attack on the American base at Pearl Harbor, circumstances obliged the disciple and his master to part company. "We will certainly lose the war,” Kodo Sawaki said at their leave-taking. “Our homeland will be destroyed, our people annihilated ... and this may be the last time we see one another. Nevertheless, love all mankind regardless of race or creed.”
     >
     > — Excerpt from Taisen Deshimaru's "The Voice of the Valley"
 
-    "Beings are numberless, I vow to free them." I.e. from suffering, through loving kindness, compassion, sympathetic joy.
+    "Beings are numberless, I vow to free them." The first bodhisattva vow speaks to freeing beings from suffering, through metta, karuna, and mudita: loving-kindness, compassion, and sympathetic joy.
 
     First, metta, i.e. loving kindness. It goes along the line of "I want to realize the moreness of X". In both senses of the word "realizing": (i) discovering that the other person is more than you thought and (ii) helping to make the potential of the other person become real (realization as achievement, as in "making a dream come true", become real). Where X is someone or something, and can include yourself. When you make a presentation, do not think "I want to make a great impression". Think "I want to help those people, and give them some information they can use." Imagine having your brother or a relative or a friend you really like, coming to you and asking "What have you learned from your experience? Please tell me so that maybe I can learn something from your experience and use it myself to make my life better." Then think "I want to realize the moreness of that person", and respond to that question with your presentation. When you aim to impress you are anxious, when you aim to help and to tell others what you found out so that they may benefit from it, you feel warm inside. When you aim to impress the focus is on you, when you aim to help the focus is on the others.
 
