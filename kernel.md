@@ -9,11 +9,11 @@
 
 1. **Space**
 
-    > "It is not the man who has little, but the man who craves more, that is poor." — Seneca  
+    > "It is not the man who has little, but the man who craves more, that is poor." — Seneca
 
-    Creating physical, emotional and mental space by focusing on natural needs, engaging in unnecessary pursuits in moderation, and avoiding or very rarely pursuing unnatural desires. Natural desires, needed for healthy life, have a natural limit. There only so much food you need to eat before you don’t feel hungry anymore. There’s only so much water you need to drink before you don’t feel thirsty anymore. There’s only so much heat you need before you don’t feel cold anymore. There’s only so much a shelther has to provide in order to shelter you. Take time to notice the peacefulness coming from the lack of hunger and from the lack of thirst.  
+      Creating physical, emotional, and mental space by focusing on natural needs, enjoying unnecessary pursuits in moderation, and avoiding unnatural desires. Natural needs have clear limits. You can only eat so much food before you're no longer hungry. You can only drink so much water before you're no longer thirsty. You need only so much warmth before you're no longer cold. There’s only so much a shelter has to provide in order to shelter you. Take time to notice the peace that comes when hunger is gone and thirst is satisfied.
 
-    Natural desires can be pursued in unncessary ways. You can drink coke to clench your thirst. You can go out and eat highly processed foods in order to end your hunger. However, these types of actions can have undesired effects on your physical and mental wellbeing and they can help create cravings.  
+    Natural desires can be pursued in unnecessary ways. You can drink soda to quench your thirst. You can eat highly processed foods to end your hunger. However, these actions often have unwanted effects on your physical and mental wellbeing, and they can create new cravings.
 
     Unnatural (not needed for survival) desires, such as the desire for luxury, fame, excessive amounts of money, fancy trips, the desire to scroll through social media, don’t have a natural limit. There’s always thirst for more money. There’s always a need to acquire more fame, to impress more people, to acquire ever more praise and to maintain your reputation. There’s always a craving to scroll more. Engaging in unnatural pursuits thus implies engaging in being forever thirsty.  
 
