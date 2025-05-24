@@ -38,7 +38,7 @@
     > 
     > — Shohaku Okumura, in "Living by Vow"
    
-    Food cooked at home, as unprocessed as possible. At least 1.4g of protein per kg per day. At least 24g of high quality protein per meal. A healthy dose of vegetables and other sources of micronutrients. 250ml of water per hour during the first 10 hours of wake time. 250 additional ml of water for each hour of workout. No sugar. No alcohol.
+    Food cooked at home, as unprocessed as possible. At least 1.4g of protein per kg of body weight per day. At least 24g of high-quality protein per meal. A healthy portion of vegetables and other micronutrient sources. 250ml of water per hour during the first 10 hours awake. An additional 250ml of water for each hour of exercise. No sugar. No alcohol.
 
 4. **Exercise**
 
