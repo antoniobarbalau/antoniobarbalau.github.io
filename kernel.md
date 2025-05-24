@@ -7,14 +7,26 @@
 
 ### Physical
 
-1. **Sleep**
+1. **Space**
+
+    > "It is not the man who has little, but the man who craves more, that is poor." — Seneca  
+
+    Creating physical, emotional and mental space by focusing on natural needs, engaging in unnecessary pursuits in moderation, and avoiding or very rarely pursuing unnatural desires. Natural desires, needed for healthy life, have a natural limit. There only so much food you need to eat before you don’t feel hungry anymore. There’s only so much water you need to drink before you don’t feel thirsty anymore. There’s only so much heat you need before you don’t feel cold anymore. There’s only so much a shelther has to provide in order to shelter you. Take time to notice the peacefulness coming from the lack of hunger and from the lack of thirst.  
+
+    Natural desires can be pursued in unncessary ways. You can drink coke to clench your thirst. You can go out and eat highly processed foods in order to end your hunger. However, these types of actions can have undesired effects on your physical and mental wellbeing and they can help create cravings.  
+
+    Unnatural (not needed for survival) desires, such as the desire for luxury, fame, excessive amounts of money, fancy trips, the desire to scroll through social media, don’t have a natural limit. There’s always thirst for more money. There’s always a need to acquire more fame, to impress more people, to acquire ever more praise and to maintain your reputation. There’s always a craving to scroll more. Engaging in unnatural pursuits thus implies engaging in being forever thirsty.  
+
+    My house does not have to be a palace, it just has to be safe, clean and welcoming. The way I dress does not have to be fancy, it just has to be trim. I don’t need fancy foods and drinks, I just need something nutritious that’s a bit tasty. I don’t need to scroll through social media for 3 hours a day, I just need meet with friends once a week. I don’t need to scroll through youtube and random news for 3 hours day in order to get information, I just need to check a few sources of highly curated information once a week or two.
+
+2. **Sleep**
    
     > "The day starts with evening Zazen and sleep is part of 24h practice." — Kosho Uchiyama
 
     At least eight hours. Keeping a steady schedule. No light or sound, to the best degree possible. Being careful with liquid intake before going to sleep in order to prevent wake-ups during the night. Relaxing routine before bed: stretching, tea and a relaxing book. If I can't sleep I just read books until I get very tired. I'm using an e-reader with very warm and very dim backlight, and read with lights shut off, in order to get into the sleepy mood.
 
 
-2. **Diet**
+3. **Diet**
 
     > *We reflect on the effort that brought us this food and consider how it comes to us.*  
     > *We reflect on our virtue and practice, and whether we are worthy of this offering.*  
@@ -28,7 +40,7 @@
    
     Food cooked at home, as unprocessed as possible. At least 1.4g of protein per kg per day. At least 24g of high quality protein per meal. A healthy dose of vegetables and other sources of micronutrients. 250ml of water per hour during the first 10 hours of wake time. 250 additional ml of water for each hour of workout. No sugar. No alcohol.
 
-3. **Exercise**
+4. **Exercise**
 
     > He was ugly to behold, and when he carried out his exercises, people would laugh at him. As he raised his arms, he used to say to himself, "Courage now, Crates, this is for the good of your eyes and of your whole body; and there will come a day when you will see these people, who are now laughing at you, become shrivelled up by illness, and then they will account you happy and reproach themselves for their idleness!"
     >
@@ -36,17 +48,6 @@
 
     As in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). Current implementation: 2 zone 2 cardio sessions, one HIIT cardio session, all on the elliptical bicycle, 4 resistance training sessions centered around compund movements: push-ups, pull-ups/chin-ups, squats and core strength. All 20mins.
 
-4. **Space**
-
-    > "It is not the man who has little, but the man who craves more, that is poor." — Seneca  
-
-    Creating physical, emotional and mental space by focusing on natural needs, engaging in unnecessary pursuits in moderation, and avoiding or very rarely pursuing unnatural desires. Natural desires, needed for healthy life, have a natural limit. There only so much food you need to eat before you don’t feel hungry anymore. There’s only so much water you need to drink before you don’t feel thirsty anymore. There’s only so much heat you need before you don’t feel cold anymore. There’s only so much a shelther has to provide in order to shelter you. Take time to notice the peacefulness coming from the lack of hunger and the lack of thirst for example.  
-
-    But natural desires can be pursued in unncessary ways. You can drink coke to clench your thirst. You can go out and eat highly processed foods in order to end your hunger. However, these types of actions can have undesired effects on your physical and mental wellbeing.  
-
-    Unnatural (not needed for survival) desires, such as the desire for luxury, fame, excessive amounts of money, fancy trips, the desire to scroll through social media, don’t have a natural limit. There’s always thirst for more money, I know people who are sad and feel like they need to work more because they can’t afford a winter house on a tropical island like some of their friends have. There’s always a need to acquire more fame, to impress more people, to acquire ever more praise and to maintain your reputation. There’s always a craving to scroll more.  
-
-    My house does not have to be a palace, it just has to be safe, clean and welcoming. The way I dress does not have to be fancy, it just has to be trim. I don’t need fancy foods and drinks, I just need something nutritious that’s a bit tasty. I don’t need to scroll through social media for 3 hours a day, I just need meet with friends once a week. I don’t need to scroll through youtube and random news for 3 hours day in order to get information, I just need to check a few sources of highly curated information once a week or two.
 
 ### Emotional
 
