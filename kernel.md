@@ -17,13 +17,13 @@
 
       Unnatural desires—those not needed for survival, such as the desire for luxury, fame, excessive money, exotic travel, or endless social media scrolling—have no natural limit. There's always thirst for more money. There's always a need to acquire more fame, to impress more people, to gain ever more praise and maintain your reputation. There's always a craving to scroll more. Engaging in unnatural pursuits means choosing to remain forever thirsty.
 
-    My house does not have to be a palace, it just has to be safe, clean and welcoming. The way I dress does not have to be fancy, it just has to be trim. I don’t need fancy foods and drinks, I just need something nutritious that’s a bit tasty. I don’t need to scroll through social media for 3 hours a day, I just need meet with friends once a week. I don’t need to scroll through youtube and random news for 3 hours day in order to get information, I just need to check a few sources of highly curated information once a week or two.
+    My house does not have to be a palace—it just has to be safe, clean, and welcoming. The way I dress does not have to be fancy—it just has to be neat. I don't need elaborate foods and drinks—I just need something nutritious and reasonably tasty. I don't need to scroll through social media for hours each day—I just need to meet with friends once a week. I don't need to spend hours browsing YouTube and random news to stay informed—I just need to check a few highly curated sources once a week or two.
 
 2. **Sleep**
    
     > "The day starts with evening Zazen and sleep is part of 24h practice." — Kosho Uchiyama
 
-    At least eight hours. Keeping a steady schedule. No light or sound, to the best degree possible. Being careful with liquid intake before going to sleep in order to prevent wake-ups during the night. Relaxing routine before bed: stretching, tea and a relaxing book. If I can't sleep I just read books until I get very tired. I'm using an e-reader with very warm and very dim backlight, and read with lights shut off, in order to get into the sleepy mood.
+    At least eight hours. Keeping a steady schedule. No light or sound, to the best degree possible. Being careful with liquid intake before sleep to prevent nighttime wake-ups. Relaxing bedtime routine: stretching, tea, and a calming book. If I can't sleep, I simply read until I feel very tired, using an e-reader with very warm and dim backlight, lights off, to encourage sleepiness.
 
 
 3. **Diet**
