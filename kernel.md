@@ -46,7 +46,7 @@
     >
     > — From "Diogenes the Cynic: Sayings and Anecdotes, With Other Popular Moralists" – A new translation by Robin Hard – Oxford Classics
 
-    Following the approach outlined in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). The current implementation involves two zone 2 cardio sessions and o e HIIT cardio session, all on elliptical bike. Aside from the cardio sessions I engage in four resistance training sessions centered around compound movements: push-ups, pull-ups/chin-ups, squats, and core strengthening. All sessions are 20 minutes.
+    Following the approach outlined in: [https://www.youtube.com/watch?v=XaA3qD1EAqg](https://www.youtube.com/watch?v=XaA3qD1EAqg). The current implementation involves two zone 2 cardio sessions and one HIIT cardio session, all on elliptical bike. Aside from the cardio sessions I engage in four resistance training sessions centered around compound movements: push-ups, pull-ups/chin-ups, squats, and core strengthening. All sessions are 20 minutes.
 
 
 ### Emotional
