@@ -38,7 +38,7 @@
     > 
     > — Shohaku Okumura, in "Living by Vow"
    
-    Food cooked at home, as unprocessed as possible. At least 1.4g of protein per kg of body weight per day. At least 24g of high-quality protein per meal. A healthy portion of vegetables and other micronutrient sources. 250ml of water per hour during the first 10 hours awake. An additional 250ml of water for each hour of exercise. No sugar. No alcohol.
+    Food cooked at home, as unprocessed as possible. At least 1.4g of protein per kg of body weight per day—ideally 2.2g if currently engaging in intense physical exercise. At least 24g of high-quality protein per meal. A healthy portion of vegetables and other micronutrient sources. 250ml of water per hour during the first 10 hours awake. An additional 250ml of water for each hour of exercise. No sugar. No alcohol.
 
 4. **Exercise**
 
@@ -67,11 +67,6 @@
 
     As an alternative to Zazen, I highly recommend Prajna, as described by John Vervaeke here: [https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3](https://www.youtube.com/watch?v=AdL9Yd0lB_k&list=PLND1JCRq8VujAHvDA482SXF1cJTQrwlx3).
 
-2. **Savoring and Having Fun**
-
-    > "Send me a pot of cheese, so that I may have a feast when I care to." — Epicurus
-
-    My bedtime routine involves 5-10mins of full body stretching, followed by warm calming tea and reading a book.
 
 2. **Metta**
 
@@ -89,7 +84,17 @@
 
     Trying to convince an enraged person is useless and only makes them feel more misunderstood, leaving you both distressed. You can't rationally change their mind, but you can help them vent and feel better inside. Again, the focus shifts outside, from "I want to win this argument" to "I understand this person is suffering, and I can alleviate some of that suffering by listening compassionately." This leaves you with warmth inside and gives them a clearer mind, free of vented rage, alongside a most important sense of belonging and being understood.
 
-5. **Chores. Mindful and energetic engagement in chores.**
+---
+work in progress
+---
+
+4. **Savoring and Having Fun**
+
+    > "Send me a pot of cheese, so that I may have a feast when I care to." — Epicurus
+
+    My bedtime routine involves 5-10mins of full body stretching, followed by warm calming tea and reading a book.
+
+3. **Chores. Mindful and energetic engagement in chores.**
 
     > The Chanyuan also says, "Put your awakened mind to work, making a constant effort to serve meals full of variety that are appropriate to the need and the occasion, and that will enable everyone to practice with their bodies and their minds with the least hindrance."
     >
