@@ -84,9 +84,8 @@
 
     Trying to convince an enraged person is useless and only makes them feel more misunderstood, leaving you both distressed. You can't rationally change their mind, but you can help them vent and feel better inside. Again, the focus shifts outside, from "I want to win this argument" to "I understand this person is suffering, and I can alleviate some of that suffering by listening compassionately." This leaves you with warmth inside and gives them a clearer mind, free of vented rage, alongside a most important sense of belonging and being understood.
 
----
-work in progress
----
+    Finally, mudita—sympathetic joy. Whenever someone is joyful around you, take a moment to delight in their joy. Ask them to tell you more about what they're experiencing and feeling. With these three practices—metta, karuna, and mudita—you can transform any situation into a warming experience. Most importantly, don't forget to act towards yourself the same way you would act towards others: with kindness, compassion, and joy.
+
 
 4. **Savoring and Having Fun**
 
