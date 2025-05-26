@@ -76,7 +76,7 @@
 
     "Beings are numberless, I vow to free them." The first bodhisattva vow speaks to freeing beings from suffering, through metta, karuna, and mudita: loving-kindness, compassion, and sympathetic joy.
 
-    Metta, i.e. loving-kindness, is beatifully described by John Vervake as the intention to realize the moreness of someone, in both senses of the word "to realize": to discover and to make real. This means both (i) discovering that the other person is more than you thought, and (ii) helping their potential become real.
+    Metta, i.e. loving-kindness, is beatifully described by John Vervake as the intention to realize the moreness of someone, in both senses of the word "realize": to discover and to make real. This means both (i) discovering that the other person is more than you thought, and (ii) helping their potential become real.
 
     When making a presentation, don't think "I want to make a great impression." Think "I want to help these people by giving them useful information." Imagine your brother or close friend asking: "What have you learned from your experience? Please tell me so I can learn something and make my life better." Then think "I want to realize the moreness of that person" and respond with that spirit. When you aim to impress, you feel anxious—the focus is on you. When you aim to help others benefit from what you've discovered, you feel warm inside—the focus is on them.
 
@@ -85,6 +85,10 @@
     Trying to convince an enraged person is useless and only makes them feel more misunderstood, leaving you both distressed. You can't rationally change their mind, but you can help them vent and feel better inside. Again, the focus shifts outside, from "I want to win this argument" to "I understand this person is suffering, and I can alleviate some of that suffering by listening compassionately." This leaves you with warmth inside and gives them a clearer mind, free of vented rage, alongside a most important sense of belonging and being understood.
 
     Finally, mudita—sympathetic joy. Whenever someone is joyful around you, take a moment to delight in their joy. Ask them to tell you more about what they're experiencing and feeling. With these three practices—metta, karuna, and mudita—you can transform any situation into a warming experience. Most importantly, don't forget to act towards yourself the same way you would act towards others: with kindness, compassion, and joy.
+
+    This endeavor can be aided by the formal practice of metta. In the formal practice, you bring to mind one person or one group of people. In general, you would consider in order: yourself, someone you love, someone neutral such as the clerk from the shop you just visited, someone you hate, humanity at large, all sentient beings and finally, all beings. For each instance you would repeat a number of times a sentence, such as: "I want to realize the moreness of X" or "May X be safe" or "May X enjoy a peaceful life" or whatever juicy loving words you find most attractive and appropriate.
+
+    I have a bracelet with wooden beads, and I repeat the sentence for each bead until I make a complete the entire bracelet, then move to the next class of people. I usually do this the first thing in the morning, the last thing in the evening and whenever I find a minute or two during the day. The practice does not have to go through all the stages (people), one is enough. And I'm always wearing the bracelet which through my practice becomes a symbol and constant reminder of love, of metta, always filling my heart with warmth. However, it is important to remember that what matters is the way in which we act, not the words, that is why I've started with the application and presented the formal practice last. Don't get lost into the words thinking you are a loving individual, act as a loving individual first and then engage into the formal practice as second.
 
 
 4. **Savoring and Having Fun**
