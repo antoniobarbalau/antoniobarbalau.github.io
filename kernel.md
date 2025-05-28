@@ -105,6 +105,10 @@
     >
     >  — Excerpt from Kosho Uchiyama's "How to cook your life"
 
+    In Soto Zen, as emphasized by Dogen himself, cooking is an important practice. Practitioners also engage in sawing their own kesa (robe) and zafuton (meditation pillow)—you do not buy these items, you make them yourself, engaging mindfully in process. Sesshins (meditation retreats) usually consists in a combination of zazen, samu and teisho (dharma talks). During samu the community cleans and cooks together. Cleaning is an important practice, and practictioners engage energetically in these activities. When entering the dojo, practitioners grab their shoes with both hands, and place them in a designated spot mindfully. Handing something to another person is again, an action performed with both hands, optionally followed by gasho (small bow as a thank you). When you cook you cook with your whole body and mind, when you hand something to another person you again, engage with your whole body and mind, you use both hands, you look the person into the eyes, you receive with both hands, and   you do gasho.
+
+    There is a saying in Zen Buddhism, "Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water". It highlights the importance of living simply and fully in the present moment. It suggests that after enlightenment, the focus remains on the mundane tasks of daily life, but with a newfound appreciation and awareness.
+
 ### Mental
 
 1. **Internalizing Socrates**
