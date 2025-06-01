@@ -256,7 +256,7 @@
   padding: 0;
   margin: var(--base-size-24) 0;
   background-color: var(--borderColor-default);
-  border: 0;
+  border: 1;
 }
 
 .markdown-body input {
